@@ -1,0 +1,1903 @@
+num,text,bytes
+1,grinning face,<f0><9f><98><80>
+2,grinning face with big eyes,<f0><9f><98><83>
+3,grinning face with smiling eyes,<f0><9f><98><84>
+4,beaming face with smiling eyes,<f0><9f><98><81>
+5,grinning squinting face,<f0><9f><98><86>
+6,grinning face with sweat,<f0><9f><98><85>
+7,rolling on the floor laughing,<f0><9f><a4><a3>
+8,face with tears of joy,<f0><9f><98><82>
+9,slightly smiling face,<f0><9f><99><82>
+10,upside-down face,<f0><9f><99><83>
+11,melting face,<f0><9f><ab><a0>
+12,winking face,<f0><9f><98><89>
+13,smiling face with smiling eyes,<f0><9f><98><8a>
+14,smiling face with halo,<f0><9f><98><87>
+15,smiling face with hearts,<f0><9f><a5><b0>
+16,smiling face with heart-eyes,<f0><9f><98><8d>
+17,star-struck,<f0><9f><a4><a9>
+18,face blowing a kiss,<f0><9f><98><98>
+19,kissing face,<f0><9f><98><97>
+20,smiling face,<e2><98><ba>
+21,kissing face with closed eyes,<f0><9f><98><9a>
+22,kissing face with smiling eyes,<f0><9f><98><99>
+23,smiling face with tear,<f0><9f><a5><b2>
+24,face savoring food,<f0><9f><98><8b>
+25,face with tongue,<f0><9f><98><9b>
+26,winking face with tongue,<f0><9f><98><9c>
+27,zany face,<f0><9f><a4><aa>
+28,squinting face with tongue,<f0><9f><98><9d>
+29,money-mouth face,<f0><9f><a4><91>
+30,smiling face with open hands,<f0><9f><a4><97>
+31,face with hand over mouth,<f0><9f><a4><ad>
+32,face with open eyes and hand over mouth,<f0><9f><ab><a2>
+33,face with peeking eye,<f0><9f><ab><a3>
+34,shushing face,<f0><9f><a4><ab>
+35,thinking face,<f0><9f><a4><94>
+36,saluting face,<f0><9f><ab><a1>
+37,zipper-mouth face,<f0><9f><a4><90>
+38,face with raised eyebrow,<f0><9f><a4><a8>
+39,neutral face,<f0><9f><98><90>
+40,expressionless face,<f0><9f><98><91>
+41,face without mouth,<f0><9f><98><b6>
+42,dotted line face,<f0><9f><ab><a5>
+43,face in clouds,<f0><9f><98><b6><e2><80><8d><f0><9f><8c><ab><ef><b8><8f>
+44,smirking face,<f0><9f><98><8f>
+45,unamused face,<f0><9f><98><92>
+46,face with rolling eyes,<f0><9f><99><84>
+47,grimacing face,<f0><9f><98><ac>
+48,face exhaling,<f0><9f><98><ae><e2><80><8d><f0><9f><92><a8>
+49,lying face,<f0><9f><a4><a5>
+50,shaking face,<f0><9f><ab><a8>
+51,head shaking horizontally,<f0><9f><99><82><e2><80><8d><e2><86><94><ef><b8><8f>
+52,head shaking vertically,<f0><9f><99><82><e2><80><8d><e2><86><95><ef><b8><8f>
+53,relieved face,<f0><9f><98><8c>
+54,pensive face,<f0><9f><98><94>
+55,sleepy face,<f0><9f><98><aa>
+56,drooling face,<f0><9f><a4><a4>
+57,sleeping face,<f0><9f><98><b4>
+58,face with medical mask,<f0><9f><98><b7>
+59,face with thermometer,<f0><9f><a4><92>
+60,face with head-bandage,<f0><9f><a4><95>
+61,nauseated face,<f0><9f><a4><a2>
+62,face vomiting,<f0><9f><a4><ae>
+63,sneezing face,<f0><9f><a4><a7>
+64,hot face,<f0><9f><a5><b5>
+65,cold face,<f0><9f><a5><b6>
+66,woozy face,<f0><9f><a5><b4>
+67,face with crossed-out eyes,<f0><9f><98><b5>
+68,face with spiral eyes,<f0><9f><98><b5><e2><80><8d><f0><9f><92><ab>
+69,exploding head,<f0><9f><a4><af>
+70,cowboy hat face,<f0><9f><a4><a0>
+71,partying face,<f0><9f><a5><b3>
+72,disguised face,<f0><9f><a5><b8>
+73,smiling face with sunglasses,<f0><9f><98><8e>
+74,nerd face,<f0><9f><a4><93>
+75,face with monocle,<f0><9f><a7><90>
+76,confused face,<f0><9f><98><95>
+77,face with diagonal mouth,<f0><9f><ab><a4>
+78,worried face,<f0><9f><98><9f>
+79,slightly frowning face,<f0><9f><99><81>
+80,frowning face,<e2><98><b9>
+81,face with open mouth,<f0><9f><98><ae>
+82,hushed face,<f0><9f><98><af>
+83,astonished face,<f0><9f><98><b2>
+84,flushed face,<f0><9f><98><b3>
+85,pleading face,<f0><9f><a5><ba>
+86,face holding back tears,<f0><9f><a5><b9>
+87,frowning face with open mouth,<f0><9f><98><a6>
+88,anguished face,<f0><9f><98><a7>
+89,fearful face,<f0><9f><98><a8>
+90,anxious face with sweat,<f0><9f><98><b0>
+91,sad but relieved face,<f0><9f><98><a5>
+92,crying face,<f0><9f><98><a2>
+93,loudly crying face,<f0><9f><98><ad>
+94,face screaming in fear,<f0><9f><98><b1>
+95,confounded face,<f0><9f><98><96>
+96,persevering face,<f0><9f><98><a3>
+97,disappointed face,<f0><9f><98><9e>
+98,downcast face with sweat,<f0><9f><98><93>
+99,weary face,<f0><9f><98><a9>
+100,tired face,<f0><9f><98><ab>
+101,yawning face,<f0><9f><a5><b1>
+102,face with steam from nose,<f0><9f><98><a4>
+103,enraged face,<f0><9f><98><a1>
+104,angry face,<f0><9f><98><a0>
+105,cursing face,<f0><9f><a4><ac>
+106,smiling face with horns,<f0><9f><98><88>
+107,angry face with horns,<f0><9f><91><bf>
+108,skull,<f0><9f><92><80>
+109,skull and crossbones,<e2><98><a0>
+110,pile of poop,<f0><9f><92><a9>
+111,clown face,<f0><9f><a4><a1>
+112,ogre,<f0><9f><91><b9>
+113,goblin,<f0><9f><91><ba>
+114,ghost,<f0><9f><91><bb>
+115,alien,<f0><9f><91><bd>
+116,alien monster,<f0><9f><91><be>
+117,robot,<f0><9f><a4><96>
+118,grinning cat,<f0><9f><98><ba>
+119,grinning cat with smiling eyes,<f0><9f><98><b8>
+120,cat with tears of joy,<f0><9f><98><b9>
+121,smiling cat with heart-eyes,<f0><9f><98><bb>
+122,cat with wry smile,<f0><9f><98><bc>
+123,kissing cat,<f0><9f><98><bd>
+124,weary cat,<f0><9f><99><80>
+125,crying cat,<f0><9f><98><bf>
+126,pouting cat,<f0><9f><98><be>
+127,see-no-evil monkey,<f0><9f><99><88>
+128,hear-no-evil monkey,<f0><9f><99><89>
+129,speak-no-evil monkey,<f0><9f><99><8a>
+130,love letter,<f0><9f><92><8c>
+131,heart with arrow,<f0><9f><92><98>
+132,heart with ribbon,<f0><9f><92><9d>
+133,sparkling heart,<f0><9f><92><96>
+134,growing heart,<f0><9f><92><97>
+135,beating heart,<f0><9f><92><93>
+136,revolving hearts,<f0><9f><92><9e>
+137,two hearts,<f0><9f><92><95>
+138,heart decoration,<f0><9f><92><9f>
+139,heart exclamation,<e2><9d><a3>
+140,broken heart,<f0><9f><92><94>
+141,heart on fire,<e2><9d><a4><ef><b8><8f><e2><80><8d><f0><9f><94><a5>
+142,mending heart,<e2><9d><a4><ef><b8><8f><e2><80><8d><f0><9f><a9><b9>
+143,red heart,<e2><9d><a4>
+144,pink heart,<f0><9f><a9><b7>
+145,orange heart,<f0><9f><a7><a1>
+146,yellow heart,<f0><9f><92><9b>
+147,green heart,<f0><9f><92><9a>
+148,blue heart,<f0><9f><92><99>
+149,light blue heart,<f0><9f><a9><b5>
+150,purple heart,<f0><9f><92><9c>
+151,brown heart,<f0><9f><a4><8e>
+152,black heart,<f0><9f><96><a4>
+153,grey heart,<f0><9f><a9><b6>
+154,white heart,<f0><9f><a4><8d>
+155,kiss mark,<f0><9f><92><8b>
+156,hundred points,<f0><9f><92><af>
+157,anger symbol,<f0><9f><92><a2>
+158,collision,<f0><9f><92><a5>
+159,dizzy,<f0><9f><92><ab>
+160,sweat droplets,<f0><9f><92><a6>
+161,dashing away,<f0><9f><92><a8>
+162,hole,<f0><9f><95><b3>
+163,speech balloon,<f0><9f><92><ac>
+164,eye in speech bubble,<f0><9f><91><81><ef><b8><8f><e2><80><8d><f0><9f><97><a8><ef><b8><8f>
+165,left speech bubble,<f0><9f><97><a8>
+166,right anger bubble,<f0><9f><97><af>
+167,thought balloon,<f0><9f><92><ad>
+168,ZZZ,<f0><9f><92><a4>
+169,waving hand,<f0><9f><91><8b>
+170,raised back of hand,<f0><9f><a4><9a>
+171,hand with fingers splayed,<f0><9f><96><90>
+172,raised hand,<e2><9c><8b>
+173,vulcan salute,<f0><9f><96><96>
+174,rightwards hand,<f0><9f><ab><b1>
+175,leftwards hand,<f0><9f><ab><b2>
+176,palm down hand,<f0><9f><ab><b3>
+177,palm up hand,<f0><9f><ab><b4>
+178,leftwards pushing hand,<f0><9f><ab><b7>
+179,rightwards pushing hand,<f0><9f><ab><b8>
+180,OK hand,<f0><9f><91><8c>
+181,pinched fingers,<f0><9f><a4><8c>
+182,pinching hand,<f0><9f><a4><8f>
+183,victory hand,<e2><9c><8c>
+184,crossed fingers,<f0><9f><a4><9e>
+185,hand with index finger and thumb crossed,<f0><9f><ab><b0>
+186,love-you gesture,<f0><9f><a4><9f>
+187,sign of the horns,<f0><9f><a4><98>
+188,call me hand,<f0><9f><a4><99>
+189,backhand index pointing left,<f0><9f><91><88>
+190,backhand index pointing right,<f0><9f><91><89>
+191,backhand index pointing up,<f0><9f><91><86>
+192,middle finger,<f0><9f><96><95>
+193,backhand index pointing down,<f0><9f><91><87>
+194,index pointing up,<e2><98><9d>
+195,index pointing at the viewer,<f0><9f><ab><b5>
+196,thumbs up,<f0><9f><91><8d>
+197,thumbs down,<f0><9f><91><8e>
+198,raised fist,<e2><9c><8a>
+199,oncoming fist,<f0><9f><91><8a>
+200,left-facing fist,<f0><9f><a4><9b>
+201,right-facing fist,<f0><9f><a4><9c>
+202,clapping hands,<f0><9f><91><8f>
+203,raising hands,<f0><9f><99><8c>
+204,heart hands,<f0><9f><ab><b6>
+205,open hands,<f0><9f><91><90>
+206,palms up together,<f0><9f><a4><b2>
+207,handshake,<f0><9f><a4><9d>
+208,folded hands,<f0><9f><99><8f>
+209,writing hand,<e2><9c><8d>
+210,nail polish,<f0><9f><92><85>
+211,selfie,<f0><9f><a4><b3>
+212,flexed biceps,<f0><9f><92><aa>
+213,mechanical arm,<f0><9f><a6><be>
+214,mechanical leg,<f0><9f><a6><bf>
+215,leg,<f0><9f><a6><b5>
+216,foot,<f0><9f><a6><b6>
+217,ear,<f0><9f><91><82>
+218,ear with hearing aid,<f0><9f><a6><bb>
+219,nose,<f0><9f><91><83>
+220,brain,<f0><9f><a7><a0>
+221,anatomical heart,<f0><9f><ab><80>
+222,lungs,<f0><9f><ab><81>
+223,tooth,<f0><9f><a6><b7>
+224,bone,<f0><9f><a6><b4>
+225,eyes,<f0><9f><91><80>
+226,eye,<f0><9f><91><81>
+227,tongue,<f0><9f><91><85>
+228,mouth,<f0><9f><91><84>
+229,biting lip,<f0><9f><ab><a6>
+230,baby,<f0><9f><91><b6>
+231,child,<f0><9f><a7><92>
+232,boy,<f0><9f><91><a6>
+233,girl,<f0><9f><91><a7>
+234,person,<f0><9f><a7><91>
+235,person: blond hair,<f0><9f><91><b1>
+236,man,<f0><9f><91><a8>
+237,person: beard,<f0><9f><a7><94>
+238,man: beard,<f0><9f><a7><94><e2><80><8d><e2><99><82><ef><b8><8f>
+239,woman: beard,<f0><9f><a7><94><e2><80><8d><e2><99><80><ef><b8><8f>
+240,man: red hair,<f0><9f><91><a8><e2><80><8d><f0><9f><a6><b0>
+241,man: curly hair,<f0><9f><91><a8><e2><80><8d><f0><9f><a6><b1>
+242,man: white hair,<f0><9f><91><a8><e2><80><8d><f0><9f><a6><b3>
+243,man: bald,<f0><9f><91><a8><e2><80><8d><f0><9f><a6><b2>
+244,woman,<f0><9f><91><a9>
+245,woman: red hair,<f0><9f><91><a9><e2><80><8d><f0><9f><a6><b0>
+246,person: red hair,<f0><9f><a7><91><e2><80><8d><f0><9f><a6><b0>
+247,woman: curly hair,<f0><9f><91><a9><e2><80><8d><f0><9f><a6><b1>
+248,person: curly hair,<f0><9f><a7><91><e2><80><8d><f0><9f><a6><b1>
+249,woman: white hair,<f0><9f><91><a9><e2><80><8d><f0><9f><a6><b3>
+250,person: white hair,<f0><9f><a7><91><e2><80><8d><f0><9f><a6><b3>
+251,woman: bald,<f0><9f><91><a9><e2><80><8d><f0><9f><a6><b2>
+252,person: bald,<f0><9f><a7><91><e2><80><8d><f0><9f><a6><b2>
+253,woman: blond hair,<f0><9f><91><b1><e2><80><8d><e2><99><80><ef><b8><8f>
+254,man: blond hair,<f0><9f><91><b1><e2><80><8d><e2><99><82><ef><b8><8f>
+255,older person,<f0><9f><a7><93>
+256,old man,<f0><9f><91><b4>
+257,old woman,<f0><9f><91><b5>
+258,person frowning,<f0><9f><99><8d>
+259,man frowning,<f0><9f><99><8d><e2><80><8d><e2><99><82><ef><b8><8f>
+260,woman frowning,<f0><9f><99><8d><e2><80><8d><e2><99><80><ef><b8><8f>
+261,person pouting,<f0><9f><99><8e>
+262,man pouting,<f0><9f><99><8e><e2><80><8d><e2><99><82><ef><b8><8f>
+263,woman pouting,<f0><9f><99><8e><e2><80><8d><e2><99><80><ef><b8><8f>
+264,person gesturing NO,<f0><9f><99><85>
+265,man gesturing NO,<f0><9f><99><85><e2><80><8d><e2><99><82><ef><b8><8f>
+266,woman gesturing NO,<f0><9f><99><85><e2><80><8d><e2><99><80><ef><b8><8f>
+267,person gesturing OK,<f0><9f><99><86>
+268,man gesturing OK,<f0><9f><99><86><e2><80><8d><e2><99><82><ef><b8><8f>
+269,woman gesturing OK,<f0><9f><99><86><e2><80><8d><e2><99><80><ef><b8><8f>
+270,person tipping hand,<f0><9f><92><81>
+271,man tipping hand,<f0><9f><92><81><e2><80><8d><e2><99><82><ef><b8><8f>
+272,woman tipping hand,<f0><9f><92><81><e2><80><8d><e2><99><80><ef><b8><8f>
+273,person raising hand,<f0><9f><99><8b>
+274,man raising hand,<f0><9f><99><8b><e2><80><8d><e2><99><82><ef><b8><8f>
+275,woman raising hand,<f0><9f><99><8b><e2><80><8d><e2><99><80><ef><b8><8f>
+276,deaf person,<f0><9f><a7><8f>
+277,deaf man,<f0><9f><a7><8f><e2><80><8d><e2><99><82><ef><b8><8f>
+278,deaf woman,<f0><9f><a7><8f><e2><80><8d><e2><99><80><ef><b8><8f>
+279,person bowing,<f0><9f><99><87>
+280,man bowing,<f0><9f><99><87><e2><80><8d><e2><99><82><ef><b8><8f>
+281,woman bowing,<f0><9f><99><87><e2><80><8d><e2><99><80><ef><b8><8f>
+282,person facepalming,<f0><9f><a4><a6>
+283,man facepalming,<f0><9f><a4><a6><e2><80><8d><e2><99><82><ef><b8><8f>
+284,woman facepalming,<f0><9f><a4><a6><e2><80><8d><e2><99><80><ef><b8><8f>
+285,person shrugging,<f0><9f><a4><b7>
+286,man shrugging,<f0><9f><a4><b7><e2><80><8d><e2><99><82><ef><b8><8f>
+287,woman shrugging,<f0><9f><a4><b7><e2><80><8d><e2><99><80><ef><b8><8f>
+288,health worker,<f0><9f><a7><91><e2><80><8d><e2><9a><95><ef><b8><8f>
+289,man health worker,<f0><9f><91><a8><e2><80><8d><e2><9a><95><ef><b8><8f>
+290,woman health worker,<f0><9f><91><a9><e2><80><8d><e2><9a><95><ef><b8><8f>
+291,student,<f0><9f><a7><91><e2><80><8d><f0><9f><8e><93>
+292,man student,<f0><9f><91><a8><e2><80><8d><f0><9f><8e><93>
+293,woman student,<f0><9f><91><a9><e2><80><8d><f0><9f><8e><93>
+294,teacher,<f0><9f><a7><91><e2><80><8d><f0><9f><8f><ab>
+295,man teacher,<f0><9f><91><a8><e2><80><8d><f0><9f><8f><ab>
+296,woman teacher,<f0><9f><91><a9><e2><80><8d><f0><9f><8f><ab>
+297,judge,<f0><9f><a7><91><e2><80><8d><e2><9a><96><ef><b8><8f>
+298,man judge,<f0><9f><91><a8><e2><80><8d><e2><9a><96><ef><b8><8f>
+299,woman judge,<f0><9f><91><a9><e2><80><8d><e2><9a><96><ef><b8><8f>
+300,farmer,<f0><9f><a7><91><e2><80><8d><f0><9f><8c><be>
+301,man farmer,<f0><9f><91><a8><e2><80><8d><f0><9f><8c><be>
+302,woman farmer,<f0><9f><91><a9><e2><80><8d><f0><9f><8c><be>
+303,cook,<f0><9f><a7><91><e2><80><8d><f0><9f><8d><b3>
+304,man cook,<f0><9f><91><a8><e2><80><8d><f0><9f><8d><b3>
+305,woman cook,<f0><9f><91><a9><e2><80><8d><f0><9f><8d><b3>
+306,mechanic,<f0><9f><a7><91><e2><80><8d><f0><9f><94><a7>
+307,man mechanic,<f0><9f><91><a8><e2><80><8d><f0><9f><94><a7>
+308,woman mechanic,<f0><9f><91><a9><e2><80><8d><f0><9f><94><a7>
+309,factory worker,<f0><9f><a7><91><e2><80><8d><f0><9f><8f><ad>
+310,man factory worker,<f0><9f><91><a8><e2><80><8d><f0><9f><8f><ad>
+311,woman factory worker,<f0><9f><91><a9><e2><80><8d><f0><9f><8f><ad>
+312,office worker,<f0><9f><a7><91><e2><80><8d><f0><9f><92><bc>
+313,man office worker,<f0><9f><91><a8><e2><80><8d><f0><9f><92><bc>
+314,woman office worker,<f0><9f><91><a9><e2><80><8d><f0><9f><92><bc>
+315,scientist,<f0><9f><a7><91><e2><80><8d><f0><9f><94><ac>
+316,man scientist,<f0><9f><91><a8><e2><80><8d><f0><9f><94><ac>
+317,woman scientist,<f0><9f><91><a9><e2><80><8d><f0><9f><94><ac>
+318,technologist,<f0><9f><a7><91><e2><80><8d><f0><9f><92><bb>
+319,man technologist,<f0><9f><91><a8><e2><80><8d><f0><9f><92><bb>
+320,woman technologist,<f0><9f><91><a9><e2><80><8d><f0><9f><92><bb>
+321,singer,<f0><9f><a7><91><e2><80><8d><f0><9f><8e><a4>
+322,man singer,<f0><9f><91><a8><e2><80><8d><f0><9f><8e><a4>
+323,woman singer,<f0><9f><91><a9><e2><80><8d><f0><9f><8e><a4>
+324,artist,<f0><9f><a7><91><e2><80><8d><f0><9f><8e><a8>
+325,man artist,<f0><9f><91><a8><e2><80><8d><f0><9f><8e><a8>
+326,woman artist,<f0><9f><91><a9><e2><80><8d><f0><9f><8e><a8>
+327,pilot,<f0><9f><a7><91><e2><80><8d><e2><9c><88><ef><b8><8f>
+328,man pilot,<f0><9f><91><a8><e2><80><8d><e2><9c><88><ef><b8><8f>
+329,woman pilot,<f0><9f><91><a9><e2><80><8d><e2><9c><88><ef><b8><8f>
+330,astronaut,<f0><9f><a7><91><e2><80><8d><f0><9f><9a><80>
+331,man astronaut,<f0><9f><91><a8><e2><80><8d><f0><9f><9a><80>
+332,woman astronaut,<f0><9f><91><a9><e2><80><8d><f0><9f><9a><80>
+333,firefighter,<f0><9f><a7><91><e2><80><8d><f0><9f><9a><92>
+334,man firefighter,<f0><9f><91><a8><e2><80><8d><f0><9f><9a><92>
+335,woman firefighter,<f0><9f><91><a9><e2><80><8d><f0><9f><9a><92>
+336,police officer,<f0><9f><91><ae>
+337,man police officer,<f0><9f><91><ae><e2><80><8d><e2><99><82><ef><b8><8f>
+338,woman police officer,<f0><9f><91><ae><e2><80><8d><e2><99><80><ef><b8><8f>
+339,detective,<f0><9f><95><b5>
+340,man detective,<f0><9f><95><b5><ef><b8><8f><e2><80><8d><e2><99><82><ef><b8><8f>
+341,woman detective,<f0><9f><95><b5><ef><b8><8f><e2><80><8d><e2><99><80><ef><b8><8f>
+342,guard,<f0><9f><92><82>
+343,man guard,<f0><9f><92><82><e2><80><8d><e2><99><82><ef><b8><8f>
+344,woman guard,<f0><9f><92><82><e2><80><8d><e2><99><80><ef><b8><8f>
+345,ninja,<f0><9f><a5><b7>
+346,construction worker,<f0><9f><91><b7>
+347,man construction worker,<f0><9f><91><b7><e2><80><8d><e2><99><82><ef><b8><8f>
+348,woman construction worker,<f0><9f><91><b7><e2><80><8d><e2><99><80><ef><b8><8f>
+349,person with crown,<f0><9f><ab><85>
+350,prince,<f0><9f><a4><b4>
+351,princess,<f0><9f><91><b8>
+352,person wearing turban,<f0><9f><91><b3>
+353,man wearing turban,<f0><9f><91><b3><e2><80><8d><e2><99><82><ef><b8><8f>
+354,woman wearing turban,<f0><9f><91><b3><e2><80><8d><e2><99><80><ef><b8><8f>
+355,person with skullcap,<f0><9f><91><b2>
+356,woman with headscarf,<f0><9f><a7><95>
+357,person in tuxedo,<f0><9f><a4><b5>
+358,man in tuxedo,<f0><9f><a4><b5><e2><80><8d><e2><99><82><ef><b8><8f>
+359,woman in tuxedo,<f0><9f><a4><b5><e2><80><8d><e2><99><80><ef><b8><8f>
+360,person with veil,<f0><9f><91><b0>
+361,man with veil,<f0><9f><91><b0><e2><80><8d><e2><99><82><ef><b8><8f>
+362,woman with veil,<f0><9f><91><b0><e2><80><8d><e2><99><80><ef><b8><8f>
+363,pregnant woman,<f0><9f><a4><b0>
+364,pregnant man,<f0><9f><ab><83>
+365,pregnant person,<f0><9f><ab><84>
+366,breast-feeding,<f0><9f><a4><b1>
+367,woman feeding baby,<f0><9f><91><a9><e2><80><8d><f0><9f><8d><bc>
+368,man feeding baby,<f0><9f><91><a8><e2><80><8d><f0><9f><8d><bc>
+369,person feeding baby,<f0><9f><a7><91><e2><80><8d><f0><9f><8d><bc>
+370,baby angel,<f0><9f><91><bc>
+371,Santa Claus,<f0><9f><8e><85>
+372,Mrs. Claus,<f0><9f><a4><b6>
+373,mx claus,<f0><9f><a7><91><e2><80><8d><f0><9f><8e><84>
+374,superhero,<f0><9f><a6><b8>
+375,man superhero,<f0><9f><a6><b8><e2><80><8d><e2><99><82><ef><b8><8f>
+376,woman superhero,<f0><9f><a6><b8><e2><80><8d><e2><99><80><ef><b8><8f>
+377,supervillain,<f0><9f><a6><b9>
+378,man supervillain,<f0><9f><a6><b9><e2><80><8d><e2><99><82><ef><b8><8f>
+379,woman supervillain,<f0><9f><a6><b9><e2><80><8d><e2><99><80><ef><b8><8f>
+380,mage,<f0><9f><a7><99>
+381,man mage,<f0><9f><a7><99><e2><80><8d><e2><99><82><ef><b8><8f>
+382,woman mage,<f0><9f><a7><99><e2><80><8d><e2><99><80><ef><b8><8f>
+383,fairy,<f0><9f><a7><9a>
+384,man fairy,<f0><9f><a7><9a><e2><80><8d><e2><99><82><ef><b8><8f>
+385,woman fairy,<f0><9f><a7><9a><e2><80><8d><e2><99><80><ef><b8><8f>
+386,vampire,<f0><9f><a7><9b>
+387,man vampire,<f0><9f><a7><9b><e2><80><8d><e2><99><82><ef><b8><8f>
+388,woman vampire,<f0><9f><a7><9b><e2><80><8d><e2><99><80><ef><b8><8f>
+389,merperson,<f0><9f><a7><9c>
+390,merman,<f0><9f><a7><9c><e2><80><8d><e2><99><82><ef><b8><8f>
+391,mermaid,<f0><9f><a7><9c><e2><80><8d><e2><99><80><ef><b8><8f>
+392,elf,<f0><9f><a7><9d>
+393,man elf,<f0><9f><a7><9d><e2><80><8d><e2><99><82><ef><b8><8f>
+394,woman elf,<f0><9f><a7><9d><e2><80><8d><e2><99><80><ef><b8><8f>
+395,genie,<f0><9f><a7><9e>
+396,man genie,<f0><9f><a7><9e><e2><80><8d><e2><99><82><ef><b8><8f>
+397,woman genie,<f0><9f><a7><9e><e2><80><8d><e2><99><80><ef><b8><8f>
+398,zombie,<f0><9f><a7><9f>
+399,man zombie,<f0><9f><a7><9f><e2><80><8d><e2><99><82><ef><b8><8f>
+400,woman zombie,<f0><9f><a7><9f><e2><80><8d><e2><99><80><ef><b8><8f>
+401,troll,<f0><9f><a7><8c>
+402,person getting massage,<f0><9f><92><86>
+403,man getting massage,<f0><9f><92><86><e2><80><8d><e2><99><82><ef><b8><8f>
+404,woman getting massage,<f0><9f><92><86><e2><80><8d><e2><99><80><ef><b8><8f>
+405,person getting haircut,<f0><9f><92><87>
+406,man getting haircut,<f0><9f><92><87><e2><80><8d><e2><99><82><ef><b8><8f>
+407,woman getting haircut,<f0><9f><92><87><e2><80><8d><e2><99><80><ef><b8><8f>
+408,person walking,<f0><9f><9a><b6>
+409,man walking,<f0><9f><9a><b6><e2><80><8d><e2><99><82><ef><b8><8f>
+410,woman walking,<f0><9f><9a><b6><e2><80><8d><e2><99><80><ef><b8><8f>
+411,NA,<f0><9f><9a><b6><e2><80><8d><e2><9e><a1><ef><b8><8f>
+412,NA,<f0><9f><9a><b6><e2><80><8d><e2><99><80><ef><b8><8f><e2><80><8d><e2><9e><a1><ef><b8><8f>
+413,NA,<f0><9f><9a><b6><e2><80><8d><e2><99><82><ef><b8><8f><e2><80><8d><e2><9e><a1><ef><b8><8f>
+414,person standing,<f0><9f><a7><8d>
+415,man standing,<f0><9f><a7><8d><e2><80><8d><e2><99><82><ef><b8><8f>
+416,woman standing,<f0><9f><a7><8d><e2><80><8d><e2><99><80><ef><b8><8f>
+417,person kneeling,<f0><9f><a7><8e>
+418,man kneeling,<f0><9f><a7><8e><e2><80><8d><e2><99><82><ef><b8><8f>
+419,woman kneeling,<f0><9f><a7><8e><e2><80><8d><e2><99><80><ef><b8><8f>
+420,NA,<f0><9f><a7><8e><e2><80><8d><e2><9e><a1><ef><b8><8f>
+421,NA,<f0><9f><a7><8e><e2><80><8d><e2><99><80><ef><b8><8f><e2><80><8d><e2><9e><a1><ef><b8><8f>
+422,NA,<f0><9f><a7><8e><e2><80><8d><e2><99><82><ef><b8><8f><e2><80><8d><e2><9e><a1><ef><b8><8f>
+423,person with white cane,<f0><9f><a7><91><e2><80><8d><f0><9f><a6><af>
+424,NA,<f0><9f><a7><91><e2><80><8d><f0><9f><a6><af><e2><80><8d><e2><9e><a1><ef><b8><8f>
+425,man with white cane,<f0><9f><91><a8><e2><80><8d><f0><9f><a6><af>
+426,NA,<f0><9f><91><a8><e2><80><8d><f0><9f><a6><af><e2><80><8d><e2><9e><a1><ef><b8><8f>
+427,woman with white cane,<f0><9f><91><a9><e2><80><8d><f0><9f><a6><af>
+428,NA,<f0><9f><91><a9><e2><80><8d><f0><9f><a6><af><e2><80><8d><e2><9e><a1><ef><b8><8f>
+429,person in motorized wheelchair,<f0><9f><a7><91><e2><80><8d><f0><9f><a6><bc>
+430,NA,<f0><9f><a7><91><e2><80><8d><f0><9f><a6><bc><e2><80><8d><e2><9e><a1><ef><b8><8f>
+431,man in motorized wheelchair,<f0><9f><91><a8><e2><80><8d><f0><9f><a6><bc>
+432,NA,<f0><9f><91><a8><e2><80><8d><f0><9f><a6><bc><e2><80><8d><e2><9e><a1><ef><b8><8f>
+433,woman in motorized wheelchair,<f0><9f><91><a9><e2><80><8d><f0><9f><a6><bc>
+434,NA,<f0><9f><91><a9><e2><80><8d><f0><9f><a6><bc><e2><80><8d><e2><9e><a1><ef><b8><8f>
+435,person in manual wheelchair,<f0><9f><a7><91><e2><80><8d><f0><9f><a6><bd>
+436,NA,<f0><9f><a7><91><e2><80><8d><f0><9f><a6><bd><e2><80><8d><e2><9e><a1><ef><b8><8f>
+437,man in manual wheelchair,<f0><9f><91><a8><e2><80><8d><f0><9f><a6><bd>
+438,NA,<f0><9f><91><a8><e2><80><8d><f0><9f><a6><bd><e2><80><8d><e2><9e><a1><ef><b8><8f>
+439,woman in manual wheelchair,<f0><9f><91><a9><e2><80><8d><f0><9f><a6><bd>
+440,NA,<f0><9f><91><a9><e2><80><8d><f0><9f><a6><bd><e2><80><8d><e2><9e><a1><ef><b8><8f>
+441,person running,<f0><9f><8f><83>
+442,man running,<f0><9f><8f><83><e2><80><8d><e2><99><82><ef><b8><8f>
+443,woman running,<f0><9f><8f><83><e2><80><8d><e2><99><80><ef><b8><8f>
+444,NA,<f0><9f><8f><83><e2><80><8d><e2><9e><a1><ef><b8><8f>
+445,NA,<f0><9f><8f><83><e2><80><8d><e2><99><80><ef><b8><8f><e2><80><8d><e2><9e><a1><ef><b8><8f>
+446,NA,<f0><9f><8f><83><e2><80><8d><e2><99><82><ef><b8><8f><e2><80><8d><e2><9e><a1><ef><b8><8f>
+447,woman dancing,<f0><9f><92><83>
+448,man dancing,<f0><9f><95><ba>
+449,person in suit levitating,<f0><9f><95><b4>
+450,people with bunny ears,<f0><9f><91><af>
+451,men with bunny ears,<f0><9f><91><af><e2><80><8d><e2><99><82><ef><b8><8f>
+452,women with bunny ears,<f0><9f><91><af><e2><80><8d><e2><99><80><ef><b8><8f>
+453,person in steamy room,<f0><9f><a7><96>
+454,man in steamy room,<f0><9f><a7><96><e2><80><8d><e2><99><82><ef><b8><8f>
+455,woman in steamy room,<f0><9f><a7><96><e2><80><8d><e2><99><80><ef><b8><8f>
+456,person climbing,<f0><9f><a7><97>
+457,man climbing,<f0><9f><a7><97><e2><80><8d><e2><99><82><ef><b8><8f>
+458,woman climbing,<f0><9f><a7><97><e2><80><8d><e2><99><80><ef><b8><8f>
+459,person fencing,<f0><9f><a4><ba>
+460,horse racing,<f0><9f><8f><87>
+461,skier,<e2><9b><b7>
+462,snowboarder,<f0><9f><8f><82>
+463,person golfing,<f0><9f><8f><8c>
+464,man golfing,<f0><9f><8f><8c><ef><b8><8f><e2><80><8d><e2><99><82><ef><b8><8f>
+465,woman golfing,<f0><9f><8f><8c><ef><b8><8f><e2><80><8d><e2><99><80><ef><b8><8f>
+466,person surfing,<f0><9f><8f><84>
+467,man surfing,<f0><9f><8f><84><e2><80><8d><e2><99><82><ef><b8><8f>
+468,woman surfing,<f0><9f><8f><84><e2><80><8d><e2><99><80><ef><b8><8f>
+469,person rowing boat,<f0><9f><9a><a3>
+470,man rowing boat,<f0><9f><9a><a3><e2><80><8d><e2><99><82><ef><b8><8f>
+471,woman rowing boat,<f0><9f><9a><a3><e2><80><8d><e2><99><80><ef><b8><8f>
+472,person swimming,<f0><9f><8f><8a>
+473,man swimming,<f0><9f><8f><8a><e2><80><8d><e2><99><82><ef><b8><8f>
+474,woman swimming,<f0><9f><8f><8a><e2><80><8d><e2><99><80><ef><b8><8f>
+475,person bouncing ball,<e2><9b><b9>
+476,man bouncing ball,<e2><9b><b9><ef><b8><8f><e2><80><8d><e2><99><82><ef><b8><8f>
+477,woman bouncing ball,<e2><9b><b9><ef><b8><8f><e2><80><8d><e2><99><80><ef><b8><8f>
+478,person lifting weights,<f0><9f><8f><8b>
+479,man lifting weights,<f0><9f><8f><8b><ef><b8><8f><e2><80><8d><e2><99><82><ef><b8><8f>
+480,woman lifting weights,<f0><9f><8f><8b><ef><b8><8f><e2><80><8d><e2><99><80><ef><b8><8f>
+481,person biking,<f0><9f><9a><b4>
+482,man biking,<f0><9f><9a><b4><e2><80><8d><e2><99><82><ef><b8><8f>
+483,woman biking,<f0><9f><9a><b4><e2><80><8d><e2><99><80><ef><b8><8f>
+484,person mountain biking,<f0><9f><9a><b5>
+485,man mountain biking,<f0><9f><9a><b5><e2><80><8d><e2><99><82><ef><b8><8f>
+486,woman mountain biking,<f0><9f><9a><b5><e2><80><8d><e2><99><80><ef><b8><8f>
+487,person cartwheeling,<f0><9f><a4><b8>
+488,man cartwheeling,<f0><9f><a4><b8><e2><80><8d><e2><99><82><ef><b8><8f>
+489,woman cartwheeling,<f0><9f><a4><b8><e2><80><8d><e2><99><80><ef><b8><8f>
+490,people wrestling,<f0><9f><a4><bc>
+491,men wrestling,<f0><9f><a4><bc><e2><80><8d><e2><99><82><ef><b8><8f>
+492,women wrestling,<f0><9f><a4><bc><e2><80><8d><e2><99><80><ef><b8><8f>
+493,person playing water polo,<f0><9f><a4><bd>
+494,man playing water polo,<f0><9f><a4><bd><e2><80><8d><e2><99><82><ef><b8><8f>
+495,woman playing water polo,<f0><9f><a4><bd><e2><80><8d><e2><99><80><ef><b8><8f>
+496,person playing handball,<f0><9f><a4><be>
+497,man playing handball,<f0><9f><a4><be><e2><80><8d><e2><99><82><ef><b8><8f>
+498,woman playing handball,<f0><9f><a4><be><e2><80><8d><e2><99><80><ef><b8><8f>
+499,person juggling,<f0><9f><a4><b9>
+500,man juggling,<f0><9f><a4><b9><e2><80><8d><e2><99><82><ef><b8><8f>
+501,woman juggling,<f0><9f><a4><b9><e2><80><8d><e2><99><80><ef><b8><8f>
+502,person in lotus position,<f0><9f><a7><98>
+503,man in lotus position,<f0><9f><a7><98><e2><80><8d><e2><99><82><ef><b8><8f>
+504,woman in lotus position,<f0><9f><a7><98><e2><80><8d><e2><99><80><ef><b8><8f>
+505,person taking bath,<f0><9f><9b><80>
+506,person in bed,<f0><9f><9b><8c>
+507,people holding hands,<f0><9f><a7><91><e2><80><8d><f0><9f><a4><9d><e2><80><8d><f0><9f><a7><91>
+508,women holding hands,<f0><9f><91><ad>
+509,woman and man holding hands,<f0><9f><91><ab>
+510,men holding hands,<f0><9f><91><ac>
+511,kiss,<f0><9f><92><8f>
+512,"kiss: woman, man",<f0><9f><91><a9><e2><80><8d><e2><9d><a4><ef><b8><8f><e2><80><8d><f0><9f><92><8b><e2><80><8d><f0><9f><91><a8>
+513,"kiss: man, man",<f0><9f><91><a8><e2><80><8d><e2><9d><a4><ef><b8><8f><e2><80><8d><f0><9f><92><8b><e2><80><8d><f0><9f><91><a8>
+514,"kiss: woman, woman",<f0><9f><91><a9><e2><80><8d><e2><9d><a4><ef><b8><8f><e2><80><8d><f0><9f><92><8b><e2><80><8d><f0><9f><91><a9>
+515,couple with heart,<f0><9f><92><91>
+516,"couple with heart: woman, man",<f0><9f><91><a9><e2><80><8d><e2><9d><a4><ef><b8><8f><e2><80><8d><f0><9f><91><a8>
+517,"couple with heart: man, man",<f0><9f><91><a8><e2><80><8d><e2><9d><a4><ef><b8><8f><e2><80><8d><f0><9f><91><a8>
+518,"couple with heart: woman, woman",<f0><9f><91><a9><e2><80><8d><e2><9d><a4><ef><b8><8f><e2><80><8d><f0><9f><91><a9>
+519,"family: man, woman, boy",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a9><e2><80><8d><f0><9f><91><a6>
+520,"family: man, woman, girl",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a9><e2><80><8d><f0><9f><91><a7>
+521,"family: man, woman, girl, boy",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a9><e2><80><8d><f0><9f><91><a7><e2><80><8d><f0><9f><91><a6>
+522,"family: man, woman, boy, boy",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a9><e2><80><8d><f0><9f><91><a6><e2><80><8d><f0><9f><91><a6>
+523,"family: man, woman, girl, girl",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a9><e2><80><8d><f0><9f><91><a7><e2><80><8d><f0><9f><91><a7>
+524,"family: man, man, boy",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a8><e2><80><8d><f0><9f><91><a6>
+525,"family: man, man, girl",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a8><e2><80><8d><f0><9f><91><a7>
+526,"family: man, man, girl, boy",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a8><e2><80><8d><f0><9f><91><a7><e2><80><8d><f0><9f><91><a6>
+527,"family: man, man, boy, boy",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a8><e2><80><8d><f0><9f><91><a6><e2><80><8d><f0><9f><91><a6>
+528,"family: man, man, girl, girl",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a8><e2><80><8d><f0><9f><91><a7><e2><80><8d><f0><9f><91><a7>
+529,"family: woman, woman, boy",<f0><9f><91><a9><e2><80><8d><f0><9f><91><a9><e2><80><8d><f0><9f><91><a6>
+530,"family: woman, woman, girl",<f0><9f><91><a9><e2><80><8d><f0><9f><91><a9><e2><80><8d><f0><9f><91><a7>
+531,"family: woman, woman, girl, boy",<f0><9f><91><a9><e2><80><8d><f0><9f><91><a9><e2><80><8d><f0><9f><91><a7><e2><80><8d><f0><9f><91><a6>
+532,"family: woman, woman, boy, boy",<f0><9f><91><a9><e2><80><8d><f0><9f><91><a9><e2><80><8d><f0><9f><91><a6><e2><80><8d><f0><9f><91><a6>
+533,"family: woman, woman, girl, girl",<f0><9f><91><a9><e2><80><8d><f0><9f><91><a9><e2><80><8d><f0><9f><91><a7><e2><80><8d><f0><9f><91><a7>
+534,"family: man, boy",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a6>
+535,"family: man, boy, boy",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a6><e2><80><8d><f0><9f><91><a6>
+536,"family: man, girl",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a7>
+537,"family: man, girl, boy",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a7><e2><80><8d><f0><9f><91><a6>
+538,"family: man, girl, girl",<f0><9f><91><a8><e2><80><8d><f0><9f><91><a7><e2><80><8d><f0><9f><91><a7>
+539,"family: woman, boy",<f0><9f><91><a9><e2><80><8d><f0><9f><91><a6>
+540,"family: woman, boy, boy",<f0><9f><91><a9><e2><80><8d><f0><9f><91><a6><e2><80><8d><f0><9f><91><a6>
+541,"family: woman, girl",<f0><9f><91><a9><e2><80><8d><f0><9f><91><a7>
+542,"family: woman, girl, boy",<f0><9f><91><a9><e2><80><8d><f0><9f><91><a7><e2><80><8d><f0><9f><91><a6>
+543,"family: woman, girl, girl",<f0><9f><91><a9><e2><80><8d><f0><9f><91><a7><e2><80><8d><f0><9f><91><a7>
+544,speaking head,<f0><9f><97><a3>
+545,bust in silhouette,<f0><9f><91><a4>
+546,busts in silhouette,<f0><9f><91><a5>
+547,people hugging,<f0><9f><ab><82>
+548,family,<f0><9f><91><aa>
+549,"⊛ family: adult, adult, child",<f0><9f><a7><91><e2><80><8d><f0><9f><a7><91><e2><80><8d><f0><9f><a7><92>
+550,"⊛ family: adult, adult, child, child",<f0><9f><a7><91><e2><80><8d><f0><9f><a7><91><e2><80><8d><f0><9f><a7><92><e2><80><8d><f0><9f><a7><92>
+551,"⊛ family: adult, child",<f0><9f><a7><91><e2><80><8d><f0><9f><a7><92>
+552,"⊛ family: adult, child, child",<f0><9f><a7><91><e2><80><8d><f0><9f><a7><92><e2><80><8d><f0><9f><a7><92>
+553,footprints,<f0><9f><91><a3>
+554,red hair,<f0><9f><a6><b0>
+555,curly hair,<f0><9f><a6><b1>
+556,white hair,<f0><9f><a6><b3>
+557,bald,<f0><9f><a6><b2>
+558,monkey face,<f0><9f><90><b5>
+559,monkey,<f0><9f><90><92>
+560,gorilla,<f0><9f><a6><8d>
+561,orangutan,<f0><9f><a6><a7>
+562,dog face,<f0><9f><90><b6>
+563,dog,<f0><9f><90><95>
+564,guide dog,<f0><9f><a6><ae>
+565,service dog,<f0><9f><90><95><e2><80><8d><f0><9f><a6><ba>
+566,poodle,<f0><9f><90><a9>
+567,wolf,<f0><9f><90><ba>
+568,fox,<f0><9f><a6><8a>
+569,raccoon,<f0><9f><a6><9d>
+570,cat face,<f0><9f><90><b1>
+571,cat,<f0><9f><90><88>
+572,black cat,<f0><9f><90><88><e2><80><8d><e2><ac><9b>
+573,lion,<f0><9f><a6><81>
+574,tiger face,<f0><9f><90><af>
+575,tiger,<f0><9f><90><85>
+576,leopard,<f0><9f><90><86>
+577,horse face,<f0><9f><90><b4>
+578,moose,<f0><9f><ab><8e>
+579,donkey,<f0><9f><ab><8f>
+580,horse,<f0><9f><90><8e>
+581,unicorn,<f0><9f><a6><84>
+582,zebra,<f0><9f><a6><93>
+583,deer,<f0><9f><a6><8c>
+584,bison,<f0><9f><a6><ac>
+585,cow face,<f0><9f><90><ae>
+586,ox,<f0><9f><90><82>
+587,water buffalo,<f0><9f><90><83>
+588,cow,<f0><9f><90><84>
+589,pig face,<f0><9f><90><b7>
+590,pig,<f0><9f><90><96>
+591,boar,<f0><9f><90><97>
+592,pig nose,<f0><9f><90><bd>
+593,ram,<f0><9f><90><8f>
+594,ewe,<f0><9f><90><91>
+595,goat,<f0><9f><90><90>
+596,camel,<f0><9f><90><aa>
+597,two-hump camel,<f0><9f><90><ab>
+598,llama,<f0><9f><a6><99>
+599,giraffe,<f0><9f><a6><92>
+600,elephant,<f0><9f><90><98>
+601,mammoth,<f0><9f><a6><a3>
+602,rhinoceros,<f0><9f><a6><8f>
+603,hippopotamus,<f0><9f><a6><9b>
+604,mouse face,<f0><9f><90><ad>
+605,mouse,<f0><9f><90><81>
+606,rat,<f0><9f><90><80>
+607,hamster,<f0><9f><90><b9>
+608,rabbit face,<f0><9f><90><b0>
+609,rabbit,<f0><9f><90><87>
+610,chipmunk,<f0><9f><90><bf>
+611,beaver,<f0><9f><a6><ab>
+612,hedgehog,<f0><9f><a6><94>
+613,bat,<f0><9f><a6><87>
+614,bear,<f0><9f><90><bb>
+615,polar bear,<f0><9f><90><bb><e2><80><8d><e2><9d><84><ef><b8><8f>
+616,koala,<f0><9f><90><a8>
+617,panda,<f0><9f><90><bc>
+618,sloth,<f0><9f><a6><a5>
+619,otter,<f0><9f><a6><a6>
+620,skunk,<f0><9f><a6><a8>
+621,kangaroo,<f0><9f><a6><98>
+622,badger,<f0><9f><a6><a1>
+623,paw prints,<f0><9f><90><be>
+624,turkey,<f0><9f><a6><83>
+625,chicken,<f0><9f><90><94>
+626,rooster,<f0><9f><90><93>
+627,hatching chick,<f0><9f><90><a3>
+628,baby chick,<f0><9f><90><a4>
+629,front-facing baby chick,<f0><9f><90><a5>
+630,bird,<f0><9f><90><a6>
+631,penguin,<f0><9f><90><a7>
+632,dove,<f0><9f><95><8a>
+633,eagle,<f0><9f><a6><85>
+634,duck,<f0><9f><a6><86>
+635,swan,<f0><9f><a6><a2>
+636,owl,<f0><9f><a6><89>
+637,dodo,<f0><9f><a6><a4>
+638,feather,<f0><9f><aa><b6>
+639,flamingo,<f0><9f><a6><a9>
+640,peacock,<f0><9f><a6><9a>
+641,parrot,<f0><9f><a6><9c>
+642,wing,<f0><9f><aa><bd>
+643,black bird,<f0><9f><90><a6><e2><80><8d><e2><ac><9b>
+644,goose,<f0><9f><aa><bf>
+645,⊛ phoenix,<f0><9f><90><a6><e2><80><8d><f0><9f><94><a5>
+646,frog,<f0><9f><90><b8>
+647,crocodile,<f0><9f><90><8a>
+648,turtle,<f0><9f><90><a2>
+649,lizard,<f0><9f><a6><8e>
+650,snake,<f0><9f><90><8d>
+651,dragon face,<f0><9f><90><b2>
+652,dragon,<f0><9f><90><89>
+653,sauropod,<f0><9f><a6><95>
+654,T-Rex,<f0><9f><a6><96>
+655,spouting whale,<f0><9f><90><b3>
+656,whale,<f0><9f><90><8b>
+657,dolphin,<f0><9f><90><ac>
+658,seal,<f0><9f><a6><ad>
+659,fish,<f0><9f><90><9f>
+660,tropical fish,<f0><9f><90><a0>
+661,blowfish,<f0><9f><90><a1>
+662,shark,<f0><9f><a6><88>
+663,octopus,<f0><9f><90><99>
+664,spiral shell,<f0><9f><90><9a>
+665,coral,<f0><9f><aa><b8>
+666,jellyfish,<f0><9f><aa><bc>
+667,snail,<f0><9f><90><8c>
+668,butterfly,<f0><9f><a6><8b>
+669,bug,<f0><9f><90><9b>
+670,ant,<f0><9f><90><9c>
+671,honeybee,<f0><9f><90><9d>
+672,beetle,<f0><9f><aa><b2>
+673,lady beetle,<f0><9f><90><9e>
+674,cricket,<f0><9f><a6><97>
+675,cockroach,<f0><9f><aa><b3>
+676,spider,<f0><9f><95><b7>
+677,spider web,<f0><9f><95><b8>
+678,scorpion,<f0><9f><a6><82>
+679,mosquito,<f0><9f><a6><9f>
+680,fly,<f0><9f><aa><b0>
+681,worm,<f0><9f><aa><b1>
+682,microbe,<f0><9f><a6><a0>
+683,bouquet,<f0><9f><92><90>
+684,cherry blossom,<f0><9f><8c><b8>
+685,white flower,<f0><9f><92><ae>
+686,lotus,<f0><9f><aa><b7>
+687,rosette,<f0><9f><8f><b5>
+688,rose,<f0><9f><8c><b9>
+689,wilted flower,<f0><9f><a5><80>
+690,hibiscus,<f0><9f><8c><ba>
+691,sunflower,<f0><9f><8c><bb>
+692,blossom,<f0><9f><8c><bc>
+693,tulip,<f0><9f><8c><b7>
+694,hyacinth,<f0><9f><aa><bb>
+695,seedling,<f0><9f><8c><b1>
+696,potted plant,<f0><9f><aa><b4>
+697,evergreen tree,<f0><9f><8c><b2>
+698,deciduous tree,<f0><9f><8c><b3>
+699,palm tree,<f0><9f><8c><b4>
+700,cactus,<f0><9f><8c><b5>
+701,sheaf of rice,<f0><9f><8c><be>
+702,herb,<f0><9f><8c><bf>
+703,shamrock,<e2><98><98>
+704,four leaf clover,<f0><9f><8d><80>
+705,maple leaf,<f0><9f><8d><81>
+706,fallen leaf,<f0><9f><8d><82>
+707,leaf fluttering in wind,<f0><9f><8d><83>
+708,empty nest,<f0><9f><aa><b9>
+709,nest with eggs,<f0><9f><aa><ba>
+710,mushroom,<f0><9f><8d><84>
+711,grapes,<f0><9f><8d><87>
+712,melon,<f0><9f><8d><88>
+713,watermelon,<f0><9f><8d><89>
+714,tangerine,<f0><9f><8d><8a>
+715,lemon,<f0><9f><8d><8b>
+716,⊛ lime,<f0><9f><8d><8b><e2><80><8d><f0><9f><9f><a9>
+717,banana,<f0><9f><8d><8c>
+718,pineapple,<f0><9f><8d><8d>
+719,mango,<f0><9f><a5><ad>
+720,red apple,<f0><9f><8d><8e>
+721,green apple,<f0><9f><8d><8f>
+722,pear,<f0><9f><8d><90>
+723,peach,<f0><9f><8d><91>
+724,cherries,<f0><9f><8d><92>
+725,strawberry,<f0><9f><8d><93>
+726,blueberries,<f0><9f><ab><90>
+727,kiwi fruit,<f0><9f><a5><9d>
+728,tomato,<f0><9f><8d><85>
+729,olive,<f0><9f><ab><92>
+730,coconut,<f0><9f><a5><a5>
+731,avocado,<f0><9f><a5><91>
+732,eggplant,<f0><9f><8d><86>
+733,potato,<f0><9f><a5><94>
+734,carrot,<f0><9f><a5><95>
+735,ear of corn,<f0><9f><8c><bd>
+736,hot pepper,<f0><9f><8c><b6>
+737,bell pepper,<f0><9f><ab><91>
+738,cucumber,<f0><9f><a5><92>
+739,leafy green,<f0><9f><a5><ac>
+740,broccoli,<f0><9f><a5><a6>
+741,garlic,<f0><9f><a7><84>
+742,onion,<f0><9f><a7><85>
+743,peanuts,<f0><9f><a5><9c>
+744,beans,<f0><9f><ab><98>
+745,chestnut,<f0><9f><8c><b0>
+746,ginger root,<f0><9f><ab><9a>
+747,pea pod,<f0><9f><ab><9b>
+748,⊛ brown mushroom,<f0><9f><8d><84><e2><80><8d><f0><9f><9f><ab>
+749,bread,<f0><9f><8d><9e>
+750,croissant,<f0><9f><a5><90>
+751,baguette bread,<f0><9f><a5><96>
+752,flatbread,<f0><9f><ab><93>
+753,pretzel,<f0><9f><a5><a8>
+754,bagel,<f0><9f><a5><af>
+755,pancakes,<f0><9f><a5><9e>
+756,waffle,<f0><9f><a7><87>
+757,cheese wedge,<f0><9f><a7><80>
+758,meat on bone,<f0><9f><8d><96>
+759,poultry leg,<f0><9f><8d><97>
+760,cut of meat,<f0><9f><a5><a9>
+761,bacon,<f0><9f><a5><93>
+762,hamburger,<f0><9f><8d><94>
+763,french fries,<f0><9f><8d><9f>
+764,pizza,<f0><9f><8d><95>
+765,hot dog,<f0><9f><8c><ad>
+766,sandwich,<f0><9f><a5><aa>
+767,taco,<f0><9f><8c><ae>
+768,burrito,<f0><9f><8c><af>
+769,tamale,<f0><9f><ab><94>
+770,stuffed flatbread,<f0><9f><a5><99>
+771,falafel,<f0><9f><a7><86>
+772,egg,<f0><9f><a5><9a>
+773,cooking,<f0><9f><8d><b3>
+774,shallow pan of food,<f0><9f><a5><98>
+775,pot of food,<f0><9f><8d><b2>
+776,fondue,<f0><9f><ab><95>
+777,bowl with spoon,<f0><9f><a5><a3>
+778,green salad,<f0><9f><a5><97>
+779,popcorn,<f0><9f><8d><bf>
+780,butter,<f0><9f><a7><88>
+781,salt,<f0><9f><a7><82>
+782,canned food,<f0><9f><a5><ab>
+783,bento box,<f0><9f><8d><b1>
+784,rice cracker,<f0><9f><8d><98>
+785,rice ball,<f0><9f><8d><99>
+786,cooked rice,<f0><9f><8d><9a>
+787,curry rice,<f0><9f><8d><9b>
+788,steaming bowl,<f0><9f><8d><9c>
+789,spaghetti,<f0><9f><8d><9d>
+790,roasted sweet potato,<f0><9f><8d><a0>
+791,oden,<f0><9f><8d><a2>
+792,sushi,<f0><9f><8d><a3>
+793,fried shrimp,<f0><9f><8d><a4>
+794,fish cake with swirl,<f0><9f><8d><a5>
+795,moon cake,<f0><9f><a5><ae>
+796,dango,<f0><9f><8d><a1>
+797,dumpling,<f0><9f><a5><9f>
+798,fortune cookie,<f0><9f><a5><a0>
+799,takeout box,<f0><9f><a5><a1>
+800,crab,<f0><9f><a6><80>
+801,lobster,<f0><9f><a6><9e>
+802,shrimp,<f0><9f><a6><90>
+803,squid,<f0><9f><a6><91>
+804,oyster,<f0><9f><a6><aa>
+805,soft ice cream,<f0><9f><8d><a6>
+806,shaved ice,<f0><9f><8d><a7>
+807,ice cream,<f0><9f><8d><a8>
+808,doughnut,<f0><9f><8d><a9>
+809,cookie,<f0><9f><8d><aa>
+810,birthday cake,<f0><9f><8e><82>
+811,shortcake,<f0><9f><8d><b0>
+812,cupcake,<f0><9f><a7><81>
+813,pie,<f0><9f><a5><a7>
+814,chocolate bar,<f0><9f><8d><ab>
+815,candy,<f0><9f><8d><ac>
+816,lollipop,<f0><9f><8d><ad>
+817,custard,<f0><9f><8d><ae>
+818,honey pot,<f0><9f><8d><af>
+819,baby bottle,<f0><9f><8d><bc>
+820,glass of milk,<f0><9f><a5><9b>
+821,hot beverage,<e2><98><95>
+822,teapot,<f0><9f><ab><96>
+823,teacup without handle,<f0><9f><8d><b5>
+824,sake,<f0><9f><8d><b6>
+825,bottle with popping cork,<f0><9f><8d><be>
+826,wine glass,<f0><9f><8d><b7>
+827,cocktail glass,<f0><9f><8d><b8>
+828,tropical drink,<f0><9f><8d><b9>
+829,beer mug,<f0><9f><8d><ba>
+830,clinking beer mugs,<f0><9f><8d><bb>
+831,clinking glasses,<f0><9f><a5><82>
+832,tumbler glass,<f0><9f><a5><83>
+833,pouring liquid,<f0><9f><ab><97>
+834,cup with straw,<f0><9f><a5><a4>
+835,bubble tea,<f0><9f><a7><8b>
+836,beverage box,<f0><9f><a7><83>
+837,mate,<f0><9f><a7><89>
+838,ice,<f0><9f><a7><8a>
+839,chopsticks,<f0><9f><a5><a2>
+840,fork and knife with plate,<f0><9f><8d><bd>
+841,fork and knife,<f0><9f><8d><b4>
+842,spoon,<f0><9f><a5><84>
+843,kitchen knife,<f0><9f><94><aa>
+844,jar,<f0><9f><ab><99>
+845,amphora,<f0><9f><8f><ba>
+846,globe showing Europe-Africa,<f0><9f><8c><8d>
+847,globe showing Americas,<f0><9f><8c><8e>
+848,globe showing Asia-Australia,<f0><9f><8c><8f>
+849,globe with meridians,<f0><9f><8c><90>
+850,world map,<f0><9f><97><ba>
+851,map of Japan,<f0><9f><97><be>
+852,compass,<f0><9f><a7><ad>
+853,snow-capped mountain,<f0><9f><8f><94>
+854,mountain,<e2><9b><b0>
+855,volcano,<f0><9f><8c><8b>
+856,mount fuji,<f0><9f><97><bb>
+857,camping,<f0><9f><8f><95>
+858,beach with umbrella,<f0><9f><8f><96>
+859,desert,<f0><9f><8f><9c>
+860,desert island,<f0><9f><8f><9d>
+861,national park,<f0><9f><8f><9e>
+862,stadium,<f0><9f><8f><9f>
+863,classical building,<f0><9f><8f><9b>
+864,building construction,<f0><9f><8f><97>
+865,brick,<f0><9f><a7><b1>
+866,rock,<f0><9f><aa><a8>
+867,wood,<f0><9f><aa><b5>
+868,hut,<f0><9f><9b><96>
+869,houses,<f0><9f><8f><98>
+870,derelict house,<f0><9f><8f><9a>
+871,house,<f0><9f><8f><a0>
+872,house with garden,<f0><9f><8f><a1>
+873,office building,<f0><9f><8f><a2>
+874,Japanese post office,<f0><9f><8f><a3>
+875,post office,<f0><9f><8f><a4>
+876,hospital,<f0><9f><8f><a5>
+877,bank,<f0><9f><8f><a6>
+878,hotel,<f0><9f><8f><a8>
+879,love hotel,<f0><9f><8f><a9>
+880,convenience store,<f0><9f><8f><aa>
+881,school,<f0><9f><8f><ab>
+882,department store,<f0><9f><8f><ac>
+883,factory,<f0><9f><8f><ad>
+884,Japanese castle,<f0><9f><8f><af>
+885,castle,<f0><9f><8f><b0>
+886,wedding,<f0><9f><92><92>
+887,Tokyo tower,<f0><9f><97><bc>
+888,Statue of Liberty,<f0><9f><97><bd>
+889,church,<e2><9b><aa>
+890,mosque,<f0><9f><95><8c>
+891,hindu temple,<f0><9f><9b><95>
+892,synagogue,<f0><9f><95><8d>
+893,shinto shrine,<e2><9b><a9>
+894,kaaba,<f0><9f><95><8b>
+895,fountain,<e2><9b><b2>
+896,tent,<e2><9b><ba>
+897,foggy,<f0><9f><8c><81>
+898,night with stars,<f0><9f><8c><83>
+899,cityscape,<f0><9f><8f><99>
+900,sunrise over mountains,<f0><9f><8c><84>
+901,sunrise,<f0><9f><8c><85>
+902,cityscape at dusk,<f0><9f><8c><86>
+903,sunset,<f0><9f><8c><87>
+904,bridge at night,<f0><9f><8c><89>
+905,hot springs,<e2><99><a8>
+906,carousel horse,<f0><9f><8e><a0>
+907,playground slide,<f0><9f><9b><9d>
+908,ferris wheel,<f0><9f><8e><a1>
+909,roller coaster,<f0><9f><8e><a2>
+910,barber pole,<f0><9f><92><88>
+911,circus tent,<f0><9f><8e><aa>
+912,locomotive,<f0><9f><9a><82>
+913,railway car,<f0><9f><9a><83>
+914,high-speed train,<f0><9f><9a><84>
+915,bullet train,<f0><9f><9a><85>
+916,train,<f0><9f><9a><86>
+917,metro,<f0><9f><9a><87>
+918,light rail,<f0><9f><9a><88>
+919,station,<f0><9f><9a><89>
+920,tram,<f0><9f><9a><8a>
+921,monorail,<f0><9f><9a><9d>
+922,mountain railway,<f0><9f><9a><9e>
+923,tram car,<f0><9f><9a><8b>
+924,bus,<f0><9f><9a><8c>
+925,oncoming bus,<f0><9f><9a><8d>
+926,trolleybus,<f0><9f><9a><8e>
+927,minibus,<f0><9f><9a><90>
+928,ambulance,<f0><9f><9a><91>
+929,fire engine,<f0><9f><9a><92>
+930,police car,<f0><9f><9a><93>
+931,oncoming police car,<f0><9f><9a><94>
+932,taxi,<f0><9f><9a><95>
+933,oncoming taxi,<f0><9f><9a><96>
+934,automobile,<f0><9f><9a><97>
+935,oncoming automobile,<f0><9f><9a><98>
+936,sport utility vehicle,<f0><9f><9a><99>
+937,pickup truck,<f0><9f><9b><bb>
+938,delivery truck,<f0><9f><9a><9a>
+939,articulated lorry,<f0><9f><9a><9b>
+940,tractor,<f0><9f><9a><9c>
+941,racing car,<f0><9f><8f><8e>
+942,motorcycle,<f0><9f><8f><8d>
+943,motor scooter,<f0><9f><9b><b5>
+944,manual wheelchair,<f0><9f><a6><bd>
+945,motorized wheelchair,<f0><9f><a6><bc>
+946,auto rickshaw,<f0><9f><9b><ba>
+947,bicycle,<f0><9f><9a><b2>
+948,kick scooter,<f0><9f><9b><b4>
+949,skateboard,<f0><9f><9b><b9>
+950,roller skate,<f0><9f><9b><bc>
+951,bus stop,<f0><9f><9a><8f>
+952,motorway,<f0><9f><9b><a3>
+953,railway track,<f0><9f><9b><a4>
+954,oil drum,<f0><9f><9b><a2>
+955,fuel pump,<e2><9b><bd>
+956,wheel,<f0><9f><9b><9e>
+957,police car light,<f0><9f><9a><a8>
+958,horizontal traffic light,<f0><9f><9a><a5>
+959,vertical traffic light,<f0><9f><9a><a6>
+960,stop sign,<f0><9f><9b><91>
+961,construction,<f0><9f><9a><a7>
+962,anchor,<e2><9a><93>
+963,ring buoy,<f0><9f><9b><9f>
+964,sailboat,<e2><9b><b5>
+965,canoe,<f0><9f><9b><b6>
+966,speedboat,<f0><9f><9a><a4>
+967,passenger ship,<f0><9f><9b><b3>
+968,ferry,<e2><9b><b4>
+969,motor boat,<f0><9f><9b><a5>
+970,ship,<f0><9f><9a><a2>
+971,airplane,<e2><9c><88>
+972,small airplane,<f0><9f><9b><a9>
+973,airplane departure,<f0><9f><9b><ab>
+974,airplane arrival,<f0><9f><9b><ac>
+975,parachute,<f0><9f><aa><82>
+976,seat,<f0><9f><92><ba>
+977,helicopter,<f0><9f><9a><81>
+978,suspension railway,<f0><9f><9a><9f>
+979,mountain cableway,<f0><9f><9a><a0>
+980,aerial tramway,<f0><9f><9a><a1>
+981,satellite,<f0><9f><9b><b0>
+982,rocket,<f0><9f><9a><80>
+983,flying saucer,<f0><9f><9b><b8>
+984,bellhop bell,<f0><9f><9b><8e>
+985,luggage,<f0><9f><a7><b3>
+986,hourglass done,<e2><8c><9b>
+987,hourglass not done,<e2><8f><b3>
+988,watch,<e2><8c><9a>
+989,alarm clock,<e2><8f><b0>
+990,stopwatch,<e2><8f><b1>
+991,timer clock,<e2><8f><b2>
+992,mantelpiece clock,<f0><9f><95><b0>
+993,twelve o’clock,<f0><9f><95><9b>
+994,twelve-thirty,<f0><9f><95><a7>
+995,one o’clock,<f0><9f><95><90>
+996,one-thirty,<f0><9f><95><9c>
+997,two o’clock,<f0><9f><95><91>
+998,two-thirty,<f0><9f><95><9d>
+999,three o’clock,<f0><9f><95><92>
+1000,three-thirty,<f0><9f><95><9e>
+1001,four o’clock,<f0><9f><95><93>
+1002,four-thirty,<f0><9f><95><9f>
+1003,five o’clock,<f0><9f><95><94>
+1004,five-thirty,<f0><9f><95><a0>
+1005,six o’clock,<f0><9f><95><95>
+1006,six-thirty,<f0><9f><95><a1>
+1007,seven o’clock,<f0><9f><95><96>
+1008,seven-thirty,<f0><9f><95><a2>
+1009,eight o’clock,<f0><9f><95><97>
+1010,eight-thirty,<f0><9f><95><a3>
+1011,nine o’clock,<f0><9f><95><98>
+1012,nine-thirty,<f0><9f><95><a4>
+1013,ten o’clock,<f0><9f><95><99>
+1014,ten-thirty,<f0><9f><95><a5>
+1015,eleven o’clock,<f0><9f><95><9a>
+1016,eleven-thirty,<f0><9f><95><a6>
+1017,new moon,<f0><9f><8c><91>
+1018,waxing crescent moon,<f0><9f><8c><92>
+1019,first quarter moon,<f0><9f><8c><93>
+1020,waxing gibbous moon,<f0><9f><8c><94>
+1021,full moon,<f0><9f><8c><95>
+1022,waning gibbous moon,<f0><9f><8c><96>
+1023,last quarter moon,<f0><9f><8c><97>
+1024,waning crescent moon,<f0><9f><8c><98>
+1025,crescent moon,<f0><9f><8c><99>
+1026,new moon face,<f0><9f><8c><9a>
+1027,first quarter moon face,<f0><9f><8c><9b>
+1028,last quarter moon face,<f0><9f><8c><9c>
+1029,thermometer,<f0><9f><8c><a1>
+1030,sun,<e2><98><80>
+1031,full moon face,<f0><9f><8c><9d>
+1032,sun with face,<f0><9f><8c><9e>
+1033,ringed planet,<f0><9f><aa><90>
+1034,star,<e2><ad><90>
+1035,glowing star,<f0><9f><8c><9f>
+1036,shooting star,<f0><9f><8c><a0>
+1037,milky way,<f0><9f><8c><8c>
+1038,cloud,<e2><98><81>
+1039,sun behind cloud,<e2><9b><85>
+1040,cloud with lightning and rain,<e2><9b><88>
+1041,sun behind small cloud,<f0><9f><8c><a4>
+1042,sun behind large cloud,<f0><9f><8c><a5>
+1043,sun behind rain cloud,<f0><9f><8c><a6>
+1044,cloud with rain,<f0><9f><8c><a7>
+1045,cloud with snow,<f0><9f><8c><a8>
+1046,cloud with lightning,<f0><9f><8c><a9>
+1047,tornado,<f0><9f><8c><aa>
+1048,fog,<f0><9f><8c><ab>
+1049,wind face,<f0><9f><8c><ac>
+1050,cyclone,<f0><9f><8c><80>
+1051,rainbow,<f0><9f><8c><88>
+1052,closed umbrella,<f0><9f><8c><82>
+1053,umbrella,<e2><98><82>
+1054,umbrella with rain drops,<e2><98><94>
+1055,umbrella on ground,<e2><9b><b1>
+1056,high voltage,<e2><9a><a1>
+1057,snowflake,<e2><9d><84>
+1058,snowman,<e2><98><83>
+1059,snowman without snow,<e2><9b><84>
+1060,comet,<e2><98><84>
+1061,fire,<f0><9f><94><a5>
+1062,droplet,<f0><9f><92><a7>
+1063,water wave,<f0><9f><8c><8a>
+1064,jack-o-lantern,<f0><9f><8e><83>
+1065,Christmas tree,<f0><9f><8e><84>
+1066,fireworks,<f0><9f><8e><86>
+1067,sparkler,<f0><9f><8e><87>
+1068,firecracker,<f0><9f><a7><a8>
+1069,sparkles,<e2><9c><a8>
+1070,balloon,<f0><9f><8e><88>
+1071,party popper,<f0><9f><8e><89>
+1072,confetti ball,<f0><9f><8e><8a>
+1073,tanabata tree,<f0><9f><8e><8b>
+1074,pine decoration,<f0><9f><8e><8d>
+1075,Japanese dolls,<f0><9f><8e><8e>
+1076,carp streamer,<f0><9f><8e><8f>
+1077,wind chime,<f0><9f><8e><90>
+1078,moon viewing ceremony,<f0><9f><8e><91>
+1079,red envelope,<f0><9f><a7><a7>
+1080,ribbon,<f0><9f><8e><80>
+1081,wrapped gift,<f0><9f><8e><81>
+1082,reminder ribbon,<f0><9f><8e><97>
+1083,admission tickets,<f0><9f><8e><9f>
+1084,ticket,<f0><9f><8e><ab>
+1085,military medal,<f0><9f><8e><96>
+1086,trophy,<f0><9f><8f><86>
+1087,sports medal,<f0><9f><8f><85>
+1088,1st place medal,<f0><9f><a5><87>
+1089,2nd place medal,<f0><9f><a5><88>
+1090,3rd place medal,<f0><9f><a5><89>
+1091,soccer ball,<e2><9a><bd>
+1092,baseball,<e2><9a><be>
+1093,softball,<f0><9f><a5><8e>
+1094,basketball,<f0><9f><8f><80>
+1095,volleyball,<f0><9f><8f><90>
+1096,american football,<f0><9f><8f><88>
+1097,rugby football,<f0><9f><8f><89>
+1098,tennis,<f0><9f><8e><be>
+1099,flying disc,<f0><9f><a5><8f>
+1100,bowling,<f0><9f><8e><b3>
+1101,cricket game,<f0><9f><8f><8f>
+1102,field hockey,<f0><9f><8f><91>
+1103,ice hockey,<f0><9f><8f><92>
+1104,lacrosse,<f0><9f><a5><8d>
+1105,ping pong,<f0><9f><8f><93>
+1106,badminton,<f0><9f><8f><b8>
+1107,boxing glove,<f0><9f><a5><8a>
+1108,martial arts uniform,<f0><9f><a5><8b>
+1109,goal net,<f0><9f><a5><85>
+1110,flag in hole,<e2><9b><b3>
+1111,ice skate,<e2><9b><b8>
+1112,fishing pole,<f0><9f><8e><a3>
+1113,diving mask,<f0><9f><a4><bf>
+1114,running shirt,<f0><9f><8e><bd>
+1115,skis,<f0><9f><8e><bf>
+1116,sled,<f0><9f><9b><b7>
+1117,curling stone,<f0><9f><a5><8c>
+1118,bullseye,<f0><9f><8e><af>
+1119,yo-yo,<f0><9f><aa><80>
+1120,kite,<f0><9f><aa><81>
+1121,water pistol,<f0><9f><94><ab>
+1122,pool 8 ball,<f0><9f><8e><b1>
+1123,crystal ball,<f0><9f><94><ae>
+1124,magic wand,<f0><9f><aa><84>
+1125,video game,<f0><9f><8e><ae>
+1126,joystick,<f0><9f><95><b9>
+1127,slot machine,<f0><9f><8e><b0>
+1128,game die,<f0><9f><8e><b2>
+1129,puzzle piece,<f0><9f><a7><a9>
+1130,teddy bear,<f0><9f><a7><b8>
+1131,piñata,<f0><9f><aa><85>
+1132,mirror ball,<f0><9f><aa><a9>
+1133,nesting dolls,<f0><9f><aa><86>
+1134,spade suit,<e2><99><a0>
+1135,heart suit,<e2><99><a5>
+1136,diamond suit,<e2><99><a6>
+1137,club suit,<e2><99><a3>
+1138,chess pawn,<e2><99><9f>
+1139,joker,<f0><9f><83><8f>
+1140,mahjong red dragon,<f0><9f><80><84>
+1141,flower playing cards,<f0><9f><8e><b4>
+1142,performing arts,<f0><9f><8e><ad>
+1143,framed picture,<f0><9f><96><bc>
+1144,artist palette,<f0><9f><8e><a8>
+1145,thread,<f0><9f><a7><b5>
+1146,sewing needle,<f0><9f><aa><a1>
+1147,yarn,<f0><9f><a7><b6>
+1148,knot,<f0><9f><aa><a2>
+1149,glasses,<f0><9f><91><93>
+1150,sunglasses,<f0><9f><95><b6>
+1151,goggles,<f0><9f><a5><bd>
+1152,lab coat,<f0><9f><a5><bc>
+1153,safety vest,<f0><9f><a6><ba>
+1154,necktie,<f0><9f><91><94>
+1155,t-shirt,<f0><9f><91><95>
+1156,jeans,<f0><9f><91><96>
+1157,scarf,<f0><9f><a7><a3>
+1158,gloves,<f0><9f><a7><a4>
+1159,coat,<f0><9f><a7><a5>
+1160,socks,<f0><9f><a7><a6>
+1161,dress,<f0><9f><91><97>
+1162,kimono,<f0><9f><91><98>
+1163,sari,<f0><9f><a5><bb>
+1164,one-piece swimsuit,<f0><9f><a9><b1>
+1165,briefs,<f0><9f><a9><b2>
+1166,shorts,<f0><9f><a9><b3>
+1167,bikini,<f0><9f><91><99>
+1168,woman’s clothes,<f0><9f><91><9a>
+1169,folding hand fan,<f0><9f><aa><ad>
+1170,purse,<f0><9f><91><9b>
+1171,handbag,<f0><9f><91><9c>
+1172,clutch bag,<f0><9f><91><9d>
+1173,shopping bags,<f0><9f><9b><8d>
+1174,backpack,<f0><9f><8e><92>
+1175,thong sandal,<f0><9f><a9><b4>
+1176,man’s shoe,<f0><9f><91><9e>
+1177,running shoe,<f0><9f><91><9f>
+1178,hiking boot,<f0><9f><a5><be>
+1179,flat shoe,<f0><9f><a5><bf>
+1180,high-heeled shoe,<f0><9f><91><a0>
+1181,woman’s sandal,<f0><9f><91><a1>
+1182,ballet shoes,<f0><9f><a9><b0>
+1183,woman’s boot,<f0><9f><91><a2>
+1184,hair pick,<f0><9f><aa><ae>
+1185,crown,<f0><9f><91><91>
+1186,woman’s hat,<f0><9f><91><92>
+1187,top hat,<f0><9f><8e><a9>
+1188,graduation cap,<f0><9f><8e><93>
+1189,billed cap,<f0><9f><a7><a2>
+1190,military helmet,<f0><9f><aa><96>
+1191,rescue worker’s helmet,<e2><9b><91>
+1192,prayer beads,<f0><9f><93><bf>
+1193,lipstick,<f0><9f><92><84>
+1194,ring,<f0><9f><92><8d>
+1195,gem stone,<f0><9f><92><8e>
+1196,muted speaker,<f0><9f><94><87>
+1197,speaker low volume,<f0><9f><94><88>
+1198,speaker medium volume,<f0><9f><94><89>
+1199,speaker high volume,<f0><9f><94><8a>
+1200,loudspeaker,<f0><9f><93><a2>
+1201,megaphone,<f0><9f><93><a3>
+1202,postal horn,<f0><9f><93><af>
+1203,bell,<f0><9f><94><94>
+1204,bell with slash,<f0><9f><94><95>
+1205,musical score,<f0><9f><8e><bc>
+1206,musical note,<f0><9f><8e><b5>
+1207,musical notes,<f0><9f><8e><b6>
+1208,studio microphone,<f0><9f><8e><99>
+1209,level slider,<f0><9f><8e><9a>
+1210,control knobs,<f0><9f><8e><9b>
+1211,microphone,<f0><9f><8e><a4>
+1212,headphone,<f0><9f><8e><a7>
+1213,radio,<f0><9f><93><bb>
+1214,saxophone,<f0><9f><8e><b7>
+1215,accordion,<f0><9f><aa><97>
+1216,guitar,<f0><9f><8e><b8>
+1217,musical keyboard,<f0><9f><8e><b9>
+1218,trumpet,<f0><9f><8e><ba>
+1219,violin,<f0><9f><8e><bb>
+1220,banjo,<f0><9f><aa><95>
+1221,drum,<f0><9f><a5><81>
+1222,long drum,<f0><9f><aa><98>
+1223,maracas,<f0><9f><aa><87>
+1224,flute,<f0><9f><aa><88>
+1225,mobile phone,<f0><9f><93><b1>
+1226,mobile phone with arrow,<f0><9f><93><b2>
+1227,telephone,<e2><98><8e>
+1228,telephone receiver,<f0><9f><93><9e>
+1229,pager,<f0><9f><93><9f>
+1230,fax machine,<f0><9f><93><a0>
+1231,battery,<f0><9f><94><8b>
+1232,low battery,<f0><9f><aa><ab>
+1233,electric plug,<f0><9f><94><8c>
+1234,laptop,<f0><9f><92><bb>
+1235,desktop computer,<f0><9f><96><a5>
+1236,printer,<f0><9f><96><a8>
+1237,keyboard,<e2><8c><a8>
+1238,computer mouse,<f0><9f><96><b1>
+1239,trackball,<f0><9f><96><b2>
+1240,computer disk,<f0><9f><92><bd>
+1241,floppy disk,<f0><9f><92><be>
+1242,optical disk,<f0><9f><92><bf>
+1243,dvd,<f0><9f><93><80>
+1244,abacus,<f0><9f><a7><ae>
+1245,movie camera,<f0><9f><8e><a5>
+1246,film frames,<f0><9f><8e><9e>
+1247,film projector,<f0><9f><93><bd>
+1248,clapper board,<f0><9f><8e><ac>
+1249,television,<f0><9f><93><ba>
+1250,camera,<f0><9f><93><b7>
+1251,camera with flash,<f0><9f><93><b8>
+1252,video camera,<f0><9f><93><b9>
+1253,videocassette,<f0><9f><93><bc>
+1254,magnifying glass tilted left,<f0><9f><94><8d>
+1255,magnifying glass tilted right,<f0><9f><94><8e>
+1256,candle,<f0><9f><95><af>
+1257,light bulb,<f0><9f><92><a1>
+1258,flashlight,<f0><9f><94><a6>
+1259,red paper lantern,<f0><9f><8f><ae>
+1260,diya lamp,<f0><9f><aa><94>
+1261,notebook with decorative cover,<f0><9f><93><94>
+1262,closed book,<f0><9f><93><95>
+1263,open book,<f0><9f><93><96>
+1264,green book,<f0><9f><93><97>
+1265,blue book,<f0><9f><93><98>
+1266,orange book,<f0><9f><93><99>
+1267,books,<f0><9f><93><9a>
+1268,notebook,<f0><9f><93><93>
+1269,ledger,<f0><9f><93><92>
+1270,page with curl,<f0><9f><93><83>
+1271,scroll,<f0><9f><93><9c>
+1272,page facing up,<f0><9f><93><84>
+1273,newspaper,<f0><9f><93><b0>
+1274,rolled-up newspaper,<f0><9f><97><9e>
+1275,bookmark tabs,<f0><9f><93><91>
+1276,bookmark,<f0><9f><94><96>
+1277,label,<f0><9f><8f><b7>
+1278,money bag,<f0><9f><92><b0>
+1279,coin,<f0><9f><aa><99>
+1280,yen banknote,<f0><9f><92><b4>
+1281,dollar banknote,<f0><9f><92><b5>
+1282,euro banknote,<f0><9f><92><b6>
+1283,pound banknote,<f0><9f><92><b7>
+1284,money with wings,<f0><9f><92><b8>
+1285,credit card,<f0><9f><92><b3>
+1286,receipt,<f0><9f><a7><be>
+1287,chart increasing with yen,<f0><9f><92><b9>
+1288,envelope,<e2><9c><89>
+1289,e-mail,<f0><9f><93><a7>
+1290,incoming envelope,<f0><9f><93><a8>
+1291,envelope with arrow,<f0><9f><93><a9>
+1292,outbox tray,<f0><9f><93><a4>
+1293,inbox tray,<f0><9f><93><a5>
+1294,package,<f0><9f><93><a6>
+1295,closed mailbox with raised flag,<f0><9f><93><ab>
+1296,closed mailbox with lowered flag,<f0><9f><93><aa>
+1297,open mailbox with raised flag,<f0><9f><93><ac>
+1298,open mailbox with lowered flag,<f0><9f><93><ad>
+1299,postbox,<f0><9f><93><ae>
+1300,ballot box with ballot,<f0><9f><97><b3>
+1301,pencil,<e2><9c><8f>
+1302,black nib,<e2><9c><92>
+1303,fountain pen,<f0><9f><96><8b>
+1304,pen,<f0><9f><96><8a>
+1305,paintbrush,<f0><9f><96><8c>
+1306,crayon,<f0><9f><96><8d>
+1307,memo,<f0><9f><93><9d>
+1308,briefcase,<f0><9f><92><bc>
+1309,file folder,<f0><9f><93><81>
+1310,open file folder,<f0><9f><93><82>
+1311,card index dividers,<f0><9f><97><82>
+1312,calendar,<f0><9f><93><85>
+1313,tear-off calendar,<f0><9f><93><86>
+1314,spiral notepad,<f0><9f><97><92>
+1315,spiral calendar,<f0><9f><97><93>
+1316,card index,<f0><9f><93><87>
+1317,chart increasing,<f0><9f><93><88>
+1318,chart decreasing,<f0><9f><93><89>
+1319,bar chart,<f0><9f><93><8a>
+1320,clipboard,<f0><9f><93><8b>
+1321,pushpin,<f0><9f><93><8c>
+1322,round pushpin,<f0><9f><93><8d>
+1323,paperclip,<f0><9f><93><8e>
+1324,linked paperclips,<f0><9f><96><87>
+1325,straight ruler,<f0><9f><93><8f>
+1326,triangular ruler,<f0><9f><93><90>
+1327,scissors,<e2><9c><82>
+1328,card file box,<f0><9f><97><83>
+1329,file cabinet,<f0><9f><97><84>
+1330,wastebasket,<f0><9f><97><91>
+1331,locked,<f0><9f><94><92>
+1332,unlocked,<f0><9f><94><93>
+1333,locked with pen,<f0><9f><94><8f>
+1334,locked with key,<f0><9f><94><90>
+1335,key,<f0><9f><94><91>
+1336,old key,<f0><9f><97><9d>
+1337,hammer,<f0><9f><94><a8>
+1338,axe,<f0><9f><aa><93>
+1339,pick,<e2><9b><8f>
+1340,hammer and pick,<e2><9a><92>
+1341,hammer and wrench,<f0><9f><9b><a0>
+1342,dagger,<f0><9f><97><a1>
+1343,crossed swords,<e2><9a><94>
+1344,bomb,<f0><9f><92><a3>
+1345,boomerang,<f0><9f><aa><83>
+1346,bow and arrow,<f0><9f><8f><b9>
+1347,shield,<f0><9f><9b><a1>
+1348,carpentry saw,<f0><9f><aa><9a>
+1349,wrench,<f0><9f><94><a7>
+1350,screwdriver,<f0><9f><aa><9b>
+1351,nut and bolt,<f0><9f><94><a9>
+1352,gear,<e2><9a><99>
+1353,clamp,<f0><9f><97><9c>
+1354,balance scale,<e2><9a><96>
+1355,white cane,<f0><9f><a6><af>
+1356,link,<f0><9f><94><97>
+1357,⊛ broken chain,<e2><9b><93><ef><b8><8f><e2><80><8d><f0><9f><92><a5>
+1358,chains,<e2><9b><93>
+1359,hook,<f0><9f><aa><9d>
+1360,toolbox,<f0><9f><a7><b0>
+1361,magnet,<f0><9f><a7><b2>
+1362,ladder,<f0><9f><aa><9c>
+1363,alembic,<e2><9a><97>
+1364,test tube,<f0><9f><a7><aa>
+1365,petri dish,<f0><9f><a7><ab>
+1366,dna,<f0><9f><a7><ac>
+1367,microscope,<f0><9f><94><ac>
+1368,telescope,<f0><9f><94><ad>
+1369,satellite antenna,<f0><9f><93><a1>
+1370,syringe,<f0><9f><92><89>
+1371,drop of blood,<f0><9f><a9><b8>
+1372,pill,<f0><9f><92><8a>
+1373,adhesive bandage,<f0><9f><a9><b9>
+1374,crutch,<f0><9f><a9><bc>
+1375,stethoscope,<f0><9f><a9><ba>
+1376,x-ray,<f0><9f><a9><bb>
+1377,door,<f0><9f><9a><aa>
+1378,elevator,<f0><9f><9b><97>
+1379,mirror,<f0><9f><aa><9e>
+1380,window,<f0><9f><aa><9f>
+1381,bed,<f0><9f><9b><8f>
+1382,couch and lamp,<f0><9f><9b><8b>
+1383,chair,<f0><9f><aa><91>
+1384,toilet,<f0><9f><9a><bd>
+1385,plunger,<f0><9f><aa><a0>
+1386,shower,<f0><9f><9a><bf>
+1387,bathtub,<f0><9f><9b><81>
+1388,mouse trap,<f0><9f><aa><a4>
+1389,razor,<f0><9f><aa><92>
+1390,lotion bottle,<f0><9f><a7><b4>
+1391,safety pin,<f0><9f><a7><b7>
+1392,broom,<f0><9f><a7><b9>
+1393,basket,<f0><9f><a7><ba>
+1394,roll of paper,<f0><9f><a7><bb>
+1395,bucket,<f0><9f><aa><a3>
+1396,soap,<f0><9f><a7><bc>
+1397,bubbles,<f0><9f><ab><a7>
+1398,toothbrush,<f0><9f><aa><a5>
+1399,sponge,<f0><9f><a7><bd>
+1400,fire extinguisher,<f0><9f><a7><af>
+1401,shopping cart,<f0><9f><9b><92>
+1402,cigarette,<f0><9f><9a><ac>
+1403,coffin,<e2><9a><b0>
+1404,headstone,<f0><9f><aa><a6>
+1405,funeral urn,<e2><9a><b1>
+1406,nazar amulet,<f0><9f><a7><bf>
+1407,hamsa,<f0><9f><aa><ac>
+1408,moai,<f0><9f><97><bf>
+1409,placard,<f0><9f><aa><a7>
+1410,identification card,<f0><9f><aa><aa>
+1411,ATM sign,<f0><9f><8f><a7>
+1412,litter in bin sign,<f0><9f><9a><ae>
+1413,potable water,<f0><9f><9a><b0>
+1414,wheelchair symbol,<e2><99><bf>
+1415,men’s room,<f0><9f><9a><b9>
+1416,women’s room,<f0><9f><9a><ba>
+1417,restroom,<f0><9f><9a><bb>
+1418,baby symbol,<f0><9f><9a><bc>
+1419,water closet,<f0><9f><9a><be>
+1420,passport control,<f0><9f><9b><82>
+1421,customs,<f0><9f><9b><83>
+1422,baggage claim,<f0><9f><9b><84>
+1423,left luggage,<f0><9f><9b><85>
+1424,warning,<e2><9a><a0>
+1425,children crossing,<f0><9f><9a><b8>
+1426,no entry,<e2><9b><94>
+1427,prohibited,<f0><9f><9a><ab>
+1428,no bicycles,<f0><9f><9a><b3>
+1429,no smoking,<f0><9f><9a><ad>
+1430,no littering,<f0><9f><9a><af>
+1431,non-potable water,<f0><9f><9a><b1>
+1432,no pedestrians,<f0><9f><9a><b7>
+1433,no mobile phones,<f0><9f><93><b5>
+1434,no one under eighteen,<f0><9f><94><9e>
+1435,radioactive,<e2><98><a2>
+1436,biohazard,<e2><98><a3>
+1437,up arrow,<e2><ac><86>
+1438,up-right arrow,<e2><86><97>
+1439,right arrow,<e2><9e><a1>
+1440,down-right arrow,<e2><86><98>
+1441,down arrow,<e2><ac><87>
+1442,down-left arrow,<e2><86><99>
+1443,left arrow,<e2><ac><85>
+1444,up-left arrow,<e2><86><96>
+1445,up-down arrow,<e2><86><95>
+1446,left-right arrow,<e2><86><94>
+1447,right arrow curving left,<e2><86><a9>
+1448,left arrow curving right,<e2><86><aa>
+1449,right arrow curving up,<e2><a4><b4>
+1450,right arrow curving down,<e2><a4><b5>
+1451,clockwise vertical arrows,<f0><9f><94><83>
+1452,counterclockwise arrows button,<f0><9f><94><84>
+1453,BACK arrow,<f0><9f><94><99>
+1454,END arrow,<f0><9f><94><9a>
+1455,ON! arrow,<f0><9f><94><9b>
+1456,SOON arrow,<f0><9f><94><9c>
+1457,TOP arrow,<f0><9f><94><9d>
+1458,place of worship,<f0><9f><9b><90>
+1459,atom symbol,<e2><9a><9b>
+1460,om,<f0><9f><95><89>
+1461,star of David,<e2><9c><a1>
+1462,wheel of dharma,<e2><98><b8>
+1463,yin yang,<e2><98><af>
+1464,latin cross,<e2><9c><9d>
+1465,orthodox cross,<e2><98><a6>
+1466,star and crescent,<e2><98><aa>
+1467,peace symbol,<e2><98><ae>
+1468,menorah,<f0><9f><95><8e>
+1469,dotted six-pointed star,<f0><9f><94><af>
+1470,khanda,<f0><9f><aa><af>
+1471,Aries,<e2><99><88>
+1472,Taurus,<e2><99><89>
+1473,Gemini,<e2><99><8a>
+1474,Cancer,<e2><99><8b>
+1475,Leo,<e2><99><8c>
+1476,Virgo,<e2><99><8d>
+1477,Libra,<e2><99><8e>
+1478,Scorpio,<e2><99><8f>
+1479,Sagittarius,<e2><99><90>
+1480,Capricorn,<e2><99><91>
+1481,Aquarius,<e2><99><92>
+1482,Pisces,<e2><99><93>
+1483,Ophiuchus,<e2><9b><8e>
+1484,shuffle tracks button,<f0><9f><94><80>
+1485,repeat button,<f0><9f><94><81>
+1486,repeat single button,<f0><9f><94><82>
+1487,play button,<e2><96><b6>
+1488,fast-forward button,<e2><8f><a9>
+1489,next track button,<e2><8f><ad>
+1490,play or pause button,<e2><8f><af>
+1491,reverse button,<e2><97><80>
+1492,fast reverse button,<e2><8f><aa>
+1493,last track button,<e2><8f><ae>
+1494,upwards button,<f0><9f><94><bc>
+1495,fast up button,<e2><8f><ab>
+1496,downwards button,<f0><9f><94><bd>
+1497,fast down button,<e2><8f><ac>
+1498,pause button,<e2><8f><b8>
+1499,stop button,<e2><8f><b9>
+1500,record button,<e2><8f><ba>
+1501,eject button,<e2><8f><8f>
+1502,cinema,<f0><9f><8e><a6>
+1503,dim button,<f0><9f><94><85>
+1504,bright button,<f0><9f><94><86>
+1505,antenna bars,<f0><9f><93><b6>
+1506,wireless,<f0><9f><9b><9c>
+1507,vibration mode,<f0><9f><93><b3>
+1508,mobile phone off,<f0><9f><93><b4>
+1509,female sign,<e2><99><80>
+1510,male sign,<e2><99><82>
+1511,transgender symbol,<e2><9a><a7>
+1512,multiply,<e2><9c><96>
+1513,plus,<e2><9e><95>
+1514,minus,<e2><9e><96>
+1515,divide,<e2><9e><97>
+1516,heavy equals sign,<f0><9f><9f><b0>
+1517,infinity,<e2><99><be>
+1518,double exclamation mark,<e2><80><bc>
+1519,exclamation question mark,<e2><81><89>
+1520,red question mark,<e2><9d><93>
+1521,white question mark,<e2><9d><94>
+1522,white exclamation mark,<e2><9d><95>
+1523,red exclamation mark,<e2><9d><97>
+1524,wavy dash,<e3><80><b0>
+1525,currency exchange,<f0><9f><92><b1>
+1526,heavy dollar sign,<f0><9f><92><b2>
+1527,medical symbol,<e2><9a><95>
+1528,recycling symbol,<e2><99><bb>
+1529,fleur-de-lis,<e2><9a><9c>
+1530,trident emblem,<f0><9f><94><b1>
+1531,name badge,<f0><9f><93><9b>
+1532,Japanese symbol for beginner,<f0><9f><94><b0>
+1533,hollow red circle,<e2><ad><95>
+1534,check mark button,<e2><9c><85>
+1535,check box with check,<e2><98><91>
+1536,check mark,<e2><9c><94>
+1537,cross mark,<e2><9d><8c>
+1538,cross mark button,<e2><9d><8e>
+1539,curly loop,<e2><9e><b0>
+1540,double curly loop,<e2><9e><bf>
+1541,part alternation mark,<e3><80><bd>
+1542,eight-spoked asterisk,<e2><9c><b3>
+1543,eight-pointed star,<e2><9c><b4>
+1544,sparkle,<e2><9d><87>
+1545,copyright,<c2><a9>
+1546,registered,<c2><ae>
+1547,trade mark,<e2><84><a2>
+1548,keycap: #,#<ef><b8><8f><e2><83><a3>
+1549,keycap: *,*<ef><b8><8f><e2><83><a3>
+1550,keycap: 0,0<ef><b8><8f><e2><83><a3>
+1551,keycap: 1,1<ef><b8><8f><e2><83><a3>
+1552,keycap: 2,2<ef><b8><8f><e2><83><a3>
+1553,keycap: 3,3<ef><b8><8f><e2><83><a3>
+1554,keycap: 4,4<ef><b8><8f><e2><83><a3>
+1555,keycap: 5,5<ef><b8><8f><e2><83><a3>
+1556,keycap: 6,6<ef><b8><8f><e2><83><a3>
+1557,keycap: 7,7<ef><b8><8f><e2><83><a3>
+1558,keycap: 8,8<ef><b8><8f><e2><83><a3>
+1559,keycap: 9,9<ef><b8><8f><e2><83><a3>
+1560,keycap: 10,<f0><9f><94><9f>
+1561,input latin uppercase,<f0><9f><94><a0>
+1562,input latin lowercase,<f0><9f><94><a1>
+1563,input numbers,<f0><9f><94><a2>
+1564,input symbols,<f0><9f><94><a3>
+1565,input latin letters,<f0><9f><94><a4>
+1566,A button (blood type),<f0><9f><85><b0>
+1567,AB button (blood type),<f0><9f><86><8e>
+1568,B button (blood type),<f0><9f><85><b1>
+1569,CL button,<f0><9f><86><91>
+1570,COOL button,<f0><9f><86><92>
+1571,FREE button,<f0><9f><86><93>
+1572,information,<e2><84><b9>
+1573,ID button,<f0><9f><86><94>
+1574,circled M,<e2><93><82>
+1575,NEW button,<f0><9f><86><95>
+1576,NG button,<f0><9f><86><96>
+1577,O button (blood type),<f0><9f><85><be>
+1578,OK button,<f0><9f><86><97>
+1579,P button,<f0><9f><85><bf>
+1580,SOS button,<f0><9f><86><98>
+1581,UP! button,<f0><9f><86><99>
+1582,VS button,<f0><9f><86><9a>
+1583,Japanese “here” button,<f0><9f><88><81>
+1584,Japanese “service charge” button,<f0><9f><88><82>
+1585,Japanese “monthly amount” button,<f0><9f><88><b7>
+1586,Japanese “not free of charge” button,<f0><9f><88><b6>
+1587,Japanese “reserved” button,<f0><9f><88><af>
+1588,Japanese “bargain” button,<f0><9f><89><90>
+1589,Japanese “discount” button,<f0><9f><88><b9>
+1590,Japanese “free of charge” button,<f0><9f><88><9a>
+1591,Japanese “prohibited” button,<f0><9f><88><b2>
+1592,Japanese “acceptable” button,<f0><9f><89><91>
+1593,Japanese “application” button,<f0><9f><88><b8>
+1594,Japanese “passing grade” button,<f0><9f><88><b4>
+1595,Japanese “vacancy” button,<f0><9f><88><b3>
+1596,Japanese “congratulations” button,<e3><8a><97>
+1597,Japanese “secret” button,<e3><8a><99>
+1598,Japanese “open for business” button,<f0><9f><88><ba>
+1599,Japanese “no vacancy” button,<f0><9f><88><b5>
+1600,red circle,<f0><9f><94><b4>
+1601,orange circle,<f0><9f><9f><a0>
+1602,yellow circle,<f0><9f><9f><a1>
+1603,green circle,<f0><9f><9f><a2>
+1604,blue circle,<f0><9f><94><b5>
+1605,purple circle,<f0><9f><9f><a3>
+1606,brown circle,<f0><9f><9f><a4>
+1607,black circle,<e2><9a><ab>
+1608,white circle,<e2><9a><aa>
+1609,red square,<f0><9f><9f><a5>
+1610,orange square,<f0><9f><9f><a7>
+1611,yellow square,<f0><9f><9f><a8>
+1612,green square,<f0><9f><9f><a9>
+1613,blue square,<f0><9f><9f><a6>
+1614,purple square,<f0><9f><9f><aa>
+1615,brown square,<f0><9f><9f><ab>
+1616,black large square,<e2><ac><9b>
+1617,white large square,<e2><ac><9c>
+1618,black medium square,<e2><97><bc>
+1619,white medium square,<e2><97><bb>
+1620,black medium-small square,<e2><97><be>
+1621,white medium-small square,<e2><97><bd>
+1622,black small square,<e2><96><aa>
+1623,white small square,<e2><96><ab>
+1624,large orange diamond,<f0><9f><94><b6>
+1625,large blue diamond,<f0><9f><94><b7>
+1626,small orange diamond,<f0><9f><94><b8>
+1627,small blue diamond,<f0><9f><94><b9>
+1628,red triangle pointed up,<f0><9f><94><ba>
+1629,red triangle pointed down,<f0><9f><94><bb>
+1630,diamond with a dot,<f0><9f><92><a0>
+1631,radio button,<f0><9f><94><98>
+1632,white square button,<f0><9f><94><b3>
+1633,black square button,<f0><9f><94><b2>
+1634,chequered flag,<f0><9f><8f><81>
+1635,triangular flag,<f0><9f><9a><a9>
+1636,crossed flags,<f0><9f><8e><8c>
+1637,black flag,<f0><9f><8f><b4>
+1638,white flag,<f0><9f><8f><b3>
+1639,rainbow flag,<f0><9f><8f><b3><ef><b8><8f><e2><80><8d><f0><9f><8c><88>
+1640,transgender flag,<f0><9f><8f><b3><ef><b8><8f><e2><80><8d><e2><9a><a7><ef><b8><8f>
+1641,pirate flag,<f0><9f><8f><b4><e2><80><8d><e2><98><a0><ef><b8><8f>
+1642,flag: Ascension Island,<f0><9f><87><a6><f0><9f><87><a8>
+1643,flag: Andorra,<f0><9f><87><a6><f0><9f><87><a9>
+1644,flag: United Arab Emirates,<f0><9f><87><a6><f0><9f><87><aa>
+1645,flag: Afghanistan,<f0><9f><87><a6><f0><9f><87><ab>
+1646,flag: Antigua & Barbuda,<f0><9f><87><a6><f0><9f><87><ac>
+1647,flag: Anguilla,<f0><9f><87><a6><f0><9f><87><ae>
+1648,flag: Albania,<f0><9f><87><a6><f0><9f><87><b1>
+1649,flag: Armenia,<f0><9f><87><a6><f0><9f><87><b2>
+1650,flag: Angola,<f0><9f><87><a6><f0><9f><87><b4>
+1651,flag: Antarctica,<f0><9f><87><a6><f0><9f><87><b6>
+1652,flag: Argentina,<f0><9f><87><a6><f0><9f><87><b7>
+1653,flag: American Samoa,<f0><9f><87><a6><f0><9f><87><b8>
+1654,flag: Austria,<f0><9f><87><a6><f0><9f><87><b9>
+1655,flag: Australia,<f0><9f><87><a6><f0><9f><87><ba>
+1656,flag: Aruba,<f0><9f><87><a6><f0><9f><87><bc>
+1657,flag: Åland Islands,<f0><9f><87><a6><f0><9f><87><bd>
+1658,flag: Azerbaijan,<f0><9f><87><a6><f0><9f><87><bf>
+1659,flag: Bosnia & Herzegovina,<f0><9f><87><a7><f0><9f><87><a6>
+1660,flag: Barbados,<f0><9f><87><a7><f0><9f><87><a7>
+1661,flag: Bangladesh,<f0><9f><87><a7><f0><9f><87><a9>
+1662,flag: Belgium,<f0><9f><87><a7><f0><9f><87><aa>
+1663,flag: Burkina Faso,<f0><9f><87><a7><f0><9f><87><ab>
+1664,flag: Bulgaria,<f0><9f><87><a7><f0><9f><87><ac>
+1665,flag: Bahrain,<f0><9f><87><a7><f0><9f><87><ad>
+1666,flag: Burundi,<f0><9f><87><a7><f0><9f><87><ae>
+1667,flag: Benin,<f0><9f><87><a7><f0><9f><87><af>
+1668,flag: St. Barthélemy,<f0><9f><87><a7><f0><9f><87><b1>
+1669,flag: Bermuda,<f0><9f><87><a7><f0><9f><87><b2>
+1670,flag: Brunei,<f0><9f><87><a7><f0><9f><87><b3>
+1671,flag: Bolivia,<f0><9f><87><a7><f0><9f><87><b4>
+1672,flag: Caribbean Netherlands,<f0><9f><87><a7><f0><9f><87><b6>
+1673,flag: Brazil,<f0><9f><87><a7><f0><9f><87><b7>
+1674,flag: Bahamas,<f0><9f><87><a7><f0><9f><87><b8>
+1675,flag: Bhutan,<f0><9f><87><a7><f0><9f><87><b9>
+1676,flag: Bouvet Island,<f0><9f><87><a7><f0><9f><87><bb>
+1677,flag: Botswana,<f0><9f><87><a7><f0><9f><87><bc>
+1678,flag: Belarus,<f0><9f><87><a7><f0><9f><87><be>
+1679,flag: Belize,<f0><9f><87><a7><f0><9f><87><bf>
+1680,flag: Canada,<f0><9f><87><a8><f0><9f><87><a6>
+1681,flag: Cocos (Keeling) Islands,<f0><9f><87><a8><f0><9f><87><a8>
+1682,flag: Congo - Kinshasa,<f0><9f><87><a8><f0><9f><87><a9>
+1683,flag: Central African Republic,<f0><9f><87><a8><f0><9f><87><ab>
+1684,flag: Congo - Brazzaville,<f0><9f><87><a8><f0><9f><87><ac>
+1685,flag: Switzerland,<f0><9f><87><a8><f0><9f><87><ad>
+1686,flag: Côte d’Ivoire,<f0><9f><87><a8><f0><9f><87><ae>
+1687,flag: Cook Islands,<f0><9f><87><a8><f0><9f><87><b0>
+1688,flag: Chile,<f0><9f><87><a8><f0><9f><87><b1>
+1689,flag: Cameroon,<f0><9f><87><a8><f0><9f><87><b2>
+1690,flag: China,<f0><9f><87><a8><f0><9f><87><b3>
+1691,flag: Colombia,<f0><9f><87><a8><f0><9f><87><b4>
+1692,flag: Clipperton Island,<f0><9f><87><a8><f0><9f><87><b5>
+1693,flag: Costa Rica,<f0><9f><87><a8><f0><9f><87><b7>
+1694,flag: Cuba,<f0><9f><87><a8><f0><9f><87><ba>
+1695,flag: Cape Verde,<f0><9f><87><a8><f0><9f><87><bb>
+1696,flag: Curaçao,<f0><9f><87><a8><f0><9f><87><bc>
+1697,flag: Christmas Island,<f0><9f><87><a8><f0><9f><87><bd>
+1698,flag: Cyprus,<f0><9f><87><a8><f0><9f><87><be>
+1699,flag: Czechia,<f0><9f><87><a8><f0><9f><87><bf>
+1700,flag: Germany,<f0><9f><87><a9><f0><9f><87><aa>
+1701,flag: Diego Garcia,<f0><9f><87><a9><f0><9f><87><ac>
+1702,flag: Djibouti,<f0><9f><87><a9><f0><9f><87><af>
+1703,flag: Denmark,<f0><9f><87><a9><f0><9f><87><b0>
+1704,flag: Dominica,<f0><9f><87><a9><f0><9f><87><b2>
+1705,flag: Dominican Republic,<f0><9f><87><a9><f0><9f><87><b4>
+1706,flag: Algeria,<f0><9f><87><a9><f0><9f><87><bf>
+1707,flag: Ceuta & Melilla,<f0><9f><87><aa><f0><9f><87><a6>
+1708,flag: Ecuador,<f0><9f><87><aa><f0><9f><87><a8>
+1709,flag: Estonia,<f0><9f><87><aa><f0><9f><87><aa>
+1710,flag: Egypt,<f0><9f><87><aa><f0><9f><87><ac>
+1711,flag: Western Sahara,<f0><9f><87><aa><f0><9f><87><ad>
+1712,flag: Eritrea,<f0><9f><87><aa><f0><9f><87><b7>
+1713,flag: Spain,<f0><9f><87><aa><f0><9f><87><b8>
+1714,flag: Ethiopia,<f0><9f><87><aa><f0><9f><87><b9>
+1715,flag: European Union,<f0><9f><87><aa><f0><9f><87><ba>
+1716,flag: Finland,<f0><9f><87><ab><f0><9f><87><ae>
+1717,flag: Fiji,<f0><9f><87><ab><f0><9f><87><af>
+1718,flag: Falkland Islands,<f0><9f><87><ab><f0><9f><87><b0>
+1719,flag: Micronesia,<f0><9f><87><ab><f0><9f><87><b2>
+1720,flag: Faroe Islands,<f0><9f><87><ab><f0><9f><87><b4>
+1721,flag: France,<f0><9f><87><ab><f0><9f><87><b7>
+1722,flag: Gabon,<f0><9f><87><ac><f0><9f><87><a6>
+1723,flag: United Kingdom,<f0><9f><87><ac><f0><9f><87><a7>
+1724,flag: Grenada,<f0><9f><87><ac><f0><9f><87><a9>
+1725,flag: Georgia,<f0><9f><87><ac><f0><9f><87><aa>
+1726,flag: French Guiana,<f0><9f><87><ac><f0><9f><87><ab>
+1727,flag: Guernsey,<f0><9f><87><ac><f0><9f><87><ac>
+1728,flag: Ghana,<f0><9f><87><ac><f0><9f><87><ad>
+1729,flag: Gibraltar,<f0><9f><87><ac><f0><9f><87><ae>
+1730,flag: Greenland,<f0><9f><87><ac><f0><9f><87><b1>
+1731,flag: Gambia,<f0><9f><87><ac><f0><9f><87><b2>
+1732,flag: Guinea,<f0><9f><87><ac><f0><9f><87><b3>
+1733,flag: Guadeloupe,<f0><9f><87><ac><f0><9f><87><b5>
+1734,flag: Equatorial Guinea,<f0><9f><87><ac><f0><9f><87><b6>
+1735,flag: Greece,<f0><9f><87><ac><f0><9f><87><b7>
+1736,flag: South Georgia & South Sandwich Islands,<f0><9f><87><ac><f0><9f><87><b8>
+1737,flag: Guatemala,<f0><9f><87><ac><f0><9f><87><b9>
+1738,flag: Guam,<f0><9f><87><ac><f0><9f><87><ba>
+1739,flag: Guinea-Bissau,<f0><9f><87><ac><f0><9f><87><bc>
+1740,flag: Guyana,<f0><9f><87><ac><f0><9f><87><be>
+1741,flag: Hong Kong SAR China,<f0><9f><87><ad><f0><9f><87><b0>
+1742,flag: Heard & McDonald Islands,<f0><9f><87><ad><f0><9f><87><b2>
+1743,flag: Honduras,<f0><9f><87><ad><f0><9f><87><b3>
+1744,flag: Croatia,<f0><9f><87><ad><f0><9f><87><b7>
+1745,flag: Haiti,<f0><9f><87><ad><f0><9f><87><b9>
+1746,flag: Hungary,<f0><9f><87><ad><f0><9f><87><ba>
+1747,flag: Canary Islands,<f0><9f><87><ae><f0><9f><87><a8>
+1748,flag: Indonesia,<f0><9f><87><ae><f0><9f><87><a9>
+1749,flag: Ireland,<f0><9f><87><ae><f0><9f><87><aa>
+1750,flag: Israel,<f0><9f><87><ae><f0><9f><87><b1>
+1751,flag: Isle of Man,<f0><9f><87><ae><f0><9f><87><b2>
+1752,flag: India,<f0><9f><87><ae><f0><9f><87><b3>
+1753,flag: British Indian Ocean Territory,<f0><9f><87><ae><f0><9f><87><b4>
+1754,flag: Iraq,<f0><9f><87><ae><f0><9f><87><b6>
+1755,flag: Iran,<f0><9f><87><ae><f0><9f><87><b7>
+1756,flag: Iceland,<f0><9f><87><ae><f0><9f><87><b8>
+1757,flag: Italy,<f0><9f><87><ae><f0><9f><87><b9>
+1758,flag: Jersey,<f0><9f><87><af><f0><9f><87><aa>
+1759,flag: Jamaica,<f0><9f><87><af><f0><9f><87><b2>
+1760,flag: Jordan,<f0><9f><87><af><f0><9f><87><b4>
+1761,flag: Japan,<f0><9f><87><af><f0><9f><87><b5>
+1762,flag: Kenya,<f0><9f><87><b0><f0><9f><87><aa>
+1763,flag: Kyrgyzstan,<f0><9f><87><b0><f0><9f><87><ac>
+1764,flag: Cambodia,<f0><9f><87><b0><f0><9f><87><ad>
+1765,flag: Kiribati,<f0><9f><87><b0><f0><9f><87><ae>
+1766,flag: Comoros,<f0><9f><87><b0><f0><9f><87><b2>
+1767,flag: St. Kitts & Nevis,<f0><9f><87><b0><f0><9f><87><b3>
+1768,flag: North Korea,<f0><9f><87><b0><f0><9f><87><b5>
+1769,flag: South Korea,<f0><9f><87><b0><f0><9f><87><b7>
+1770,flag: Kuwait,<f0><9f><87><b0><f0><9f><87><bc>
+1771,flag: Cayman Islands,<f0><9f><87><b0><f0><9f><87><be>
+1772,flag: Kazakhstan,<f0><9f><87><b0><f0><9f><87><bf>
+1773,flag: Laos,<f0><9f><87><b1><f0><9f><87><a6>
+1774,flag: Lebanon,<f0><9f><87><b1><f0><9f><87><a7>
+1775,flag: St. Lucia,<f0><9f><87><b1><f0><9f><87><a8>
+1776,flag: Liechtenstein,<f0><9f><87><b1><f0><9f><87><ae>
+1777,flag: Sri Lanka,<f0><9f><87><b1><f0><9f><87><b0>
+1778,flag: Liberia,<f0><9f><87><b1><f0><9f><87><b7>
+1779,flag: Lesotho,<f0><9f><87><b1><f0><9f><87><b8>
+1780,flag: Lithuania,<f0><9f><87><b1><f0><9f><87><b9>
+1781,flag: Luxembourg,<f0><9f><87><b1><f0><9f><87><ba>
+1782,flag: Latvia,<f0><9f><87><b1><f0><9f><87><bb>
+1783,flag: Libya,<f0><9f><87><b1><f0><9f><87><be>
+1784,flag: Morocco,<f0><9f><87><b2><f0><9f><87><a6>
+1785,flag: Monaco,<f0><9f><87><b2><f0><9f><87><a8>
+1786,flag: Moldova,<f0><9f><87><b2><f0><9f><87><a9>
+1787,flag: Montenegro,<f0><9f><87><b2><f0><9f><87><aa>
+1788,flag: St. Martin,<f0><9f><87><b2><f0><9f><87><ab>
+1789,flag: Madagascar,<f0><9f><87><b2><f0><9f><87><ac>
+1790,flag: Marshall Islands,<f0><9f><87><b2><f0><9f><87><ad>
+1791,flag: North Macedonia,<f0><9f><87><b2><f0><9f><87><b0>
+1792,flag: Mali,<f0><9f><87><b2><f0><9f><87><b1>
+1793,flag: Myanmar (Burma),<f0><9f><87><b2><f0><9f><87><b2>
+1794,flag: Mongolia,<f0><9f><87><b2><f0><9f><87><b3>
+1795,flag: Macao SAR China,<f0><9f><87><b2><f0><9f><87><b4>
+1796,flag: Northern Mariana Islands,<f0><9f><87><b2><f0><9f><87><b5>
+1797,flag: Martinique,<f0><9f><87><b2><f0><9f><87><b6>
+1798,flag: Mauritania,<f0><9f><87><b2><f0><9f><87><b7>
+1799,flag: Montserrat,<f0><9f><87><b2><f0><9f><87><b8>
+1800,flag: Malta,<f0><9f><87><b2><f0><9f><87><b9>
+1801,flag: Mauritius,<f0><9f><87><b2><f0><9f><87><ba>
+1802,flag: Maldives,<f0><9f><87><b2><f0><9f><87><bb>
+1803,flag: Malawi,<f0><9f><87><b2><f0><9f><87><bc>
+1804,flag: Mexico,<f0><9f><87><b2><f0><9f><87><bd>
+1805,flag: Malaysia,<f0><9f><87><b2><f0><9f><87><be>
+1806,flag: Mozambique,<f0><9f><87><b2><f0><9f><87><bf>
+1807,flag: Namibia,<f0><9f><87><b3><f0><9f><87><a6>
+1808,flag: New Caledonia,<f0><9f><87><b3><f0><9f><87><a8>
+1809,flag: Niger,<f0><9f><87><b3><f0><9f><87><aa>
+1810,flag: Norfolk Island,<f0><9f><87><b3><f0><9f><87><ab>
+1811,flag: Nigeria,<f0><9f><87><b3><f0><9f><87><ac>
+1812,flag: Nicaragua,<f0><9f><87><b3><f0><9f><87><ae>
+1813,flag: Netherlands,<f0><9f><87><b3><f0><9f><87><b1>
+1814,flag: Norway,<f0><9f><87><b3><f0><9f><87><b4>
+1815,flag: Nepal,<f0><9f><87><b3><f0><9f><87><b5>
+1816,flag: Nauru,<f0><9f><87><b3><f0><9f><87><b7>
+1817,flag: Niue,<f0><9f><87><b3><f0><9f><87><ba>
+1818,flag: New Zealand,<f0><9f><87><b3><f0><9f><87><bf>
+1819,flag: Oman,<f0><9f><87><b4><f0><9f><87><b2>
+1820,flag: Panama,<f0><9f><87><b5><f0><9f><87><a6>
+1821,flag: Peru,<f0><9f><87><b5><f0><9f><87><aa>
+1822,flag: French Polynesia,<f0><9f><87><b5><f0><9f><87><ab>
+1823,flag: Papua New Guinea,<f0><9f><87><b5><f0><9f><87><ac>
+1824,flag: Philippines,<f0><9f><87><b5><f0><9f><87><ad>
+1825,flag: Pakistan,<f0><9f><87><b5><f0><9f><87><b0>
+1826,flag: Poland,<f0><9f><87><b5><f0><9f><87><b1>
+1827,flag: St. Pierre & Miquelon,<f0><9f><87><b5><f0><9f><87><b2>
+1828,flag: Pitcairn Islands,<f0><9f><87><b5><f0><9f><87><b3>
+1829,flag: Puerto Rico,<f0><9f><87><b5><f0><9f><87><b7>
+1830,flag: Palestinian Territories,<f0><9f><87><b5><f0><9f><87><b8>
+1831,flag: Portugal,<f0><9f><87><b5><f0><9f><87><b9>
+1832,flag: Palau,<f0><9f><87><b5><f0><9f><87><bc>
+1833,flag: Paraguay,<f0><9f><87><b5><f0><9f><87><be>
+1834,flag: Qatar,<f0><9f><87><b6><f0><9f><87><a6>
+1835,flag: Réunion,<f0><9f><87><b7><f0><9f><87><aa>
+1836,flag: Romania,<f0><9f><87><b7><f0><9f><87><b4>
+1837,flag: Serbia,<f0><9f><87><b7><f0><9f><87><b8>
+1838,flag: Russia,<f0><9f><87><b7><f0><9f><87><ba>
+1839,flag: Rwanda,<f0><9f><87><b7><f0><9f><87><bc>
+1840,flag: Saudi Arabia,<f0><9f><87><b8><f0><9f><87><a6>
+1841,flag: Solomon Islands,<f0><9f><87><b8><f0><9f><87><a7>
+1842,flag: Seychelles,<f0><9f><87><b8><f0><9f><87><a8>
+1843,flag: Sudan,<f0><9f><87><b8><f0><9f><87><a9>
+1844,flag: Sweden,<f0><9f><87><b8><f0><9f><87><aa>
+1845,flag: Singapore,<f0><9f><87><b8><f0><9f><87><ac>
+1846,flag: St. Helena,<f0><9f><87><b8><f0><9f><87><ad>
+1847,flag: Slovenia,<f0><9f><87><b8><f0><9f><87><ae>
+1848,flag: Svalbard & Jan Mayen,<f0><9f><87><b8><f0><9f><87><af>
+1849,flag: Slovakia,<f0><9f><87><b8><f0><9f><87><b0>
+1850,flag: Sierra Leone,<f0><9f><87><b8><f0><9f><87><b1>
+1851,flag: San Marino,<f0><9f><87><b8><f0><9f><87><b2>
+1852,flag: Senegal,<f0><9f><87><b8><f0><9f><87><b3>
+1853,flag: Somalia,<f0><9f><87><b8><f0><9f><87><b4>
+1854,flag: Suriname,<f0><9f><87><b8><f0><9f><87><b7>
+1855,flag: South Sudan,<f0><9f><87><b8><f0><9f><87><b8>
+1856,flag: São Tomé & Príncipe,<f0><9f><87><b8><f0><9f><87><b9>
+1857,flag: El Salvador,<f0><9f><87><b8><f0><9f><87><bb>
+1858,flag: Sint Maarten,<f0><9f><87><b8><f0><9f><87><bd>
+1859,flag: Syria,<f0><9f><87><b8><f0><9f><87><be>
+1860,flag: Eswatini,<f0><9f><87><b8><f0><9f><87><bf>
+1861,flag: Tristan da Cunha,<f0><9f><87><b9><f0><9f><87><a6>
+1862,flag: Turks & Caicos Islands,<f0><9f><87><b9><f0><9f><87><a8>
+1863,flag: Chad,<f0><9f><87><b9><f0><9f><87><a9>
+1864,flag: French Southern Territories,<f0><9f><87><b9><f0><9f><87><ab>
+1865,flag: Togo,<f0><9f><87><b9><f0><9f><87><ac>
+1866,flag: Thailand,<f0><9f><87><b9><f0><9f><87><ad>
+1867,flag: Tajikistan,<f0><9f><87><b9><f0><9f><87><af>
+1868,flag: Tokelau,<f0><9f><87><b9><f0><9f><87><b0>
+1869,flag: Timor-Leste,<f0><9f><87><b9><f0><9f><87><b1>
+1870,flag: Turkmenistan,<f0><9f><87><b9><f0><9f><87><b2>
+1871,flag: Tunisia,<f0><9f><87><b9><f0><9f><87><b3>
+1872,flag: Tonga,<f0><9f><87><b9><f0><9f><87><b4>
+1873,flag: Türkiye,<f0><9f><87><b9><f0><9f><87><b7>
+1874,flag: Trinidad & Tobago,<f0><9f><87><b9><f0><9f><87><b9>
+1875,flag: Tuvalu,<f0><9f><87><b9><f0><9f><87><bb>
+1876,flag: Taiwan,<f0><9f><87><b9><f0><9f><87><bc>
+1877,flag: Tanzania,<f0><9f><87><b9><f0><9f><87><bf>
+1878,flag: Ukraine,<f0><9f><87><ba><f0><9f><87><a6>
+1879,flag: Uganda,<f0><9f><87><ba><f0><9f><87><ac>
+1880,flag: U.S. Outlying Islands,<f0><9f><87><ba><f0><9f><87><b2>
+1881,flag: United Nations,<f0><9f><87><ba><f0><9f><87><b3>
+1882,flag: United States,<f0><9f><87><ba><f0><9f><87><b8>
+1883,flag: Uruguay,<f0><9f><87><ba><f0><9f><87><be>
+1884,flag: Uzbekistan,<f0><9f><87><ba><f0><9f><87><bf>
+1885,flag: Vatican City,<f0><9f><87><bb><f0><9f><87><a6>
+1886,flag: St. Vincent & Grenadines,<f0><9f><87><bb><f0><9f><87><a8>
+1887,flag: Venezuela,<f0><9f><87><bb><f0><9f><87><aa>
+1888,flag: British Virgin Islands,<f0><9f><87><bb><f0><9f><87><ac>
+1889,flag: U.S. Virgin Islands,<f0><9f><87><bb><f0><9f><87><ae>
+1890,flag: Vietnam,<f0><9f><87><bb><f0><9f><87><b3>
+1891,flag: Vanuatu,<f0><9f><87><bb><f0><9f><87><ba>
+1892,flag: Wallis & Futuna,<f0><9f><87><bc><f0><9f><87><ab>
+1893,flag: Samoa,<f0><9f><87><bc><f0><9f><87><b8>
+1894,flag: Kosovo,<f0><9f><87><bd><f0><9f><87><b0>
+1895,flag: Yemen,<f0><9f><87><be><f0><9f><87><aa>
+1896,flag: Mayotte,<f0><9f><87><be><f0><9f><87><b9>
+1897,flag: South Africa,<f0><9f><87><bf><f0><9f><87><a6>
+1898,flag: Zambia,<f0><9f><87><bf><f0><9f><87><b2>
+1899,flag: Zimbabwe,<f0><9f><87><bf><f0><9f><87><bc>
+1900,flag: England,<f0><9f><8f><b4><f3><a0><81><a7><f3><a0><81><a2><f3><a0><81><a5><f3><a0><81><ae><f3><a0><81><a7><f3><a0><81><bf>
+1901,flag: Scotland,<f0><9f><8f><b4><f3><a0><81><a7><f3><a0><81><a2><f3><a0><81><b3><f3><a0><81><a3><f3><a0><81><b4><f3><a0><81><bf>
+1902,flag: Wales,<f0><9f><8f><b4><f3><a0><81><a7><f3><a0><81><a2><f3><a0><81><b7><f3><a0><81><ac><f3><a0><81><b3><f3><a0><81><bf>
